@@ -1,0 +1,29 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:turtle_helmet"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:glowstone_dust"
+      }
+    }
+  ],
+  "input": {
+    "Count": 1,
+    "id": "minecraft:splash_potion",
+    "tag": {
+      "Potion": "minecraft:awkward"
+    }
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:splash_potion",
+    "tag": {
+      "Potion": "minecraft:long_turtle_master"
+    }
+  }
+}

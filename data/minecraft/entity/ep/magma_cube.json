@@ -1,0 +1,9 @@
+{
+  "entity": "minecraft:magma_cube",
+  "evolution": "tensura:none",
+  "maxEP": 1000,
+  "minEP": 1000,
+  "skills": [
+    "tensura:heat_nullification"
+  ]
+}

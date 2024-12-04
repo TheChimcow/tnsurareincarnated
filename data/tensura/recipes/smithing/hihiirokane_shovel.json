@@ -1,0 +1,26 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/hihiirokane"
+      }
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      },
+      "amount": 2
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:hihiirokane_shovel",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:hihiirokane_gear_schematic"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "parent": "tensura:elementalist",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.infinity_cores.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:element_core_empty",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.infinity_cores.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

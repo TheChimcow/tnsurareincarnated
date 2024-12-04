@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:orc_spawn",
+  "spawners": {
+    "type": "tensura:orc",
+    "weight": 110,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

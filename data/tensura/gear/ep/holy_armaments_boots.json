@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.03,
+  "item": "tensura:holy_armaments_boots",
+  "maxEP": 750000,
+  "minEP": 50000
+}

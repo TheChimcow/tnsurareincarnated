@@ -1,0 +1,14 @@
+{
+  "combinationID": 46,
+  "magicProjectile": {
+    "damage": 3.0,
+    "effect": {
+      "effectID": "tensura:none"
+    },
+    "entity": "tensura:dimension_cut_projectile",
+    "noGravity": true,
+    "speed": 2.0
+  },
+  "spaceCores": 3,
+  "spaceMultiplier": 3.0
+}

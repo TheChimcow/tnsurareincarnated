@@ -1,0 +1,11 @@
+{
+  "type": "tensura:kiln_mixing",
+  "inputLeft": {
+    "amount": 1,
+    "moltenType": "tensura:gold"
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:gold_nugget"
+  }
+}

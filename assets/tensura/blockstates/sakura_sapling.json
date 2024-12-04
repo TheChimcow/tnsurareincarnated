@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "stage=0": {
+      "model": "tensura:block/sakura_sapling"
+    },
+    "stage=1": {
+      "model": "tensura:block/sakura_sapling"
+    }
+  }
+}

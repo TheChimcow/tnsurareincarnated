@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.01,
+  "item": "tensura:bat_glider",
+  "maxEP": 100000,
+  "minEP": 2500
+}

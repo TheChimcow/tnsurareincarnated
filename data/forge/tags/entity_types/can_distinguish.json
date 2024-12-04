@@ -1,0 +1,13 @@
+{
+  "values": [
+    "tensura:fire_ball",
+    "tensura:fire_bolt",
+    "tensura:magma_shot",
+    "tensura:flame_breath",
+    "tensura:steam_ball",
+    "minecraft:fireball",
+    "minecraft:firework_rocket",
+    "minecraft:dragon_fireball",
+    "minecraft:small_fireball"
+  ]
+}

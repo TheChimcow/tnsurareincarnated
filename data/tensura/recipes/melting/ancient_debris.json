@@ -1,0 +1,8 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "minecraft:ancient_debris"
+  },
+  "moltenAmount": 4,
+  "moltenType": "tensura:netherite"
+}

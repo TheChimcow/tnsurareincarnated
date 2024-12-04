@@ -1,0 +1,8 @@
+{
+  "values": [
+    "minecraft:stony_shore",
+    "#forge:is_swamp",
+    "#minecraft:allows_surface_slime_spawns",
+    "#minecraft:has_structure/ocean_ruin_cold"
+  ]
+}

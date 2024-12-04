@@ -1,0 +1,11 @@
+{
+  "entity": "tensura:winged_cat",
+  "evolution": "tensura:none",
+  "maxEP": 9000,
+  "minEP": 8000,
+  "skills": [
+    "tensura:spatial_manipulation",
+    "tensura:space_transform",
+    "tensura:spatial_attack_resistance"
+  ]
+}

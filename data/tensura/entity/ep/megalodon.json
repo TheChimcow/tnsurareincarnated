@@ -1,0 +1,9 @@
+{
+  "entity": "tensura:megalodon",
+  "evolution": "tensura:none",
+  "maxEP": 40000,
+  "minEP": 20000,
+  "skills": [
+    "tensura:magic_jamming"
+  ]
+}

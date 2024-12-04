@@ -1,0 +1,26 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:clay_ball"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "minecraft:red_dye"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:anti_magic_mask",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:anti_magic_mask_schematic"
+  ]
+}

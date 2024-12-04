@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chilled_slime",
+  "ingredients": [
+    {
+      "item": "tensura:chilled_slime_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tensura:chilled_slime"
+  }
+}

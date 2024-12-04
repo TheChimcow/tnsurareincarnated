@@ -1,0 +1,9 @@
+{
+  "entity": "tensura:sissie",
+  "evolution": "tensura:none",
+  "maxEP": 50000,
+  "minEP": 30000,
+  "skills": [
+    "tensura:water_breathing"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "hihiirokane_nugget",
+  "ingredients": [
+    {
+      "item": "tensura:hihiirokane_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tensura:hihiirokane_nugget"
+  }
+}

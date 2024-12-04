@@ -1,0 +1,16 @@
+{
+  "entity": "tensura:ifrit",
+  "evolution": "tensura:none",
+  "maxEP": 150000,
+  "minEP": 120000,
+  "skills": [
+    "tensura:flame_transform",
+    "tensura:flame_manipulation",
+    "tensura:body_double",
+    "tensura:ranged_barrier",
+    "tensura:fire_bolt",
+    "tensura:flare_circle",
+    "tensura:hellfire",
+    "tensura:flame_attack_nullification"
+  ]
+}

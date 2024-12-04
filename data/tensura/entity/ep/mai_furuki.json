@@ -1,0 +1,11 @@
+{
+  "entity": "tensura:mai_furuki",
+  "evolution": "tensura:none",
+  "maxEP": 170000,
+  "minEP": 150000,
+  "skills": [
+    "tensura:traveler",
+    "tensura:spatial_motion",
+    "tensura:magic_sense"
+  ]
+}

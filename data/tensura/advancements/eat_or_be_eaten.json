@@ -1,0 +1,39 @@
+{
+  "parent": "tensura:hiss_tory",
+  "criteria": {
+    "entities": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "tensura:orc_disaster"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.eat_or_be_eaten.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:orc_disaster_head"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.eat_or_be_eaten.title"
+    }
+  },
+  "requirements": [
+    [
+      "entities"
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "tensura:lizardmen_village/barn",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "tensura:lizardman_village/swamp/swamp_lizardman_village_barn",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

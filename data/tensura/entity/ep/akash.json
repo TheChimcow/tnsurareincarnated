@@ -1,0 +1,12 @@
+{
+  "entity": "tensura:akash",
+  "evolution": "tensura:none",
+  "maxEP": 150000,
+  "minEP": 120000,
+  "skills": [
+    "tensura:space_transform",
+    "tensura:spatial_manipulation",
+    "tensura:teleport",
+    "tensura:spatial_attack_nullification"
+  ]
+}

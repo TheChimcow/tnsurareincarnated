@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:story/root",
+  "criteria": {
+    "items": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:leather"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.getcha_leathers.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:leather"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.getcha_leathers.title"
+    }
+  },
+  "requirements": [
+    [
+      "items"
+    ]
+  ]
+}

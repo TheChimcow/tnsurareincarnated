@@ -1,0 +1,11 @@
+{
+  "type": "tensura:kiln_mixing",
+  "inputLeft": {
+    "amount": 81,
+    "moltenType": "tensura:silver"
+  },
+  "result": {
+    "Count": 1,
+    "id": "tensura:block_of_silver"
+  }
+}

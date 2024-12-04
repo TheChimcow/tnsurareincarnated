@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#forge:skill/earth_manipulating",
+    "#minecraft:base_stone_overworld",
+    "#minecraft:base_stone_nether",
+    "#minecraft:nylium",
+    "#minecraft:wart_blocks",
+    "#forge:cobblestone",
+    "#forge:stone",
+    "#minecraft:terracotta",
+    "minecraft:sandstone",
+    "minecraft:red_sandstone",
+    "minecraft:calcite"
+  ]
+}

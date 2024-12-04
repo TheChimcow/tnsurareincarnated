@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 2.5,
+  "ingredient": {
+    "item": "tensura:hihiirokane_helmet"
+  },
+  "result": "tensura:hihiirokane_nugget"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:knight_spider_leg"
+      },
+      "amount": 3
+    },
+    {
+      "type": {
+        "tag": "forge:strong_thread"
+      },
+      "amount": 3
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:spider_bow",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:spider_bows_schematic"
+  ]
+}

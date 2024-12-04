@@ -1,0 +1,10 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "tensura:netherite_sickle"
+  },
+  "moltenAmount": 1,
+  "moltenType": "tensura:netherite",
+  "secondaryAmount": 4,
+  "secondaryType": "tensura:gold"
+}

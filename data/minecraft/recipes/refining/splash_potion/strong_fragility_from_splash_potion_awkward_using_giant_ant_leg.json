@@ -1,0 +1,29 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:giant_ant_leg"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:redstone"
+      }
+    }
+  ],
+  "input": {
+    "Count": 1,
+    "id": "minecraft:splash_potion",
+    "tag": {
+      "Potion": "minecraft:awkward"
+    }
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:splash_potion",
+    "tag": {
+      "Potion": "tensura:strong_fragility"
+    }
+  }
+}

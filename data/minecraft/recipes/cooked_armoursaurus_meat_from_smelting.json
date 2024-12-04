@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "tensura:raw_armoursaurus_meat"
+  },
+  "result": "tensura:cooked_armoursaurus_meat"
+}

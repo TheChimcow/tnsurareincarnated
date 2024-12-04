@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:grow_spurt",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.infamy_famous.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:demon_essence"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.infamy_famous.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

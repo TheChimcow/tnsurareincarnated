@@ -1,0 +1,9 @@
+{
+  "entity": "tensura:spear_toro",
+  "evolution": "tensura:none",
+  "maxEP": 10000,
+  "minEP": 9000,
+  "skills": [
+    "tensura:water_breathing"
+  ]
+}

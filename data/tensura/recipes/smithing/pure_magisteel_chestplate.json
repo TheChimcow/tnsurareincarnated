@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:pure_magisteel_ingot"
+      },
+      "amount": 8
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:pure_magisteel_chestplate",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:pure_magisteel_gear_schematic"
+  ]
+}

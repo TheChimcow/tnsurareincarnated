@@ -1,0 +1,11 @@
+{
+  "type": "tensura:kiln_mixing",
+  "inputLeft": {
+    "amount": 1,
+    "moltenType": "tensura:silver"
+  },
+  "result": {
+    "Count": 1,
+    "id": "tensura:silver_nugget"
+  }
+}

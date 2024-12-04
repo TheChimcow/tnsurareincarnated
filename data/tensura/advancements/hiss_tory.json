@@ -1,0 +1,37 @@
+{
+  "parent": "tensura:shell_lizard",
+  "criteria": {
+    "items": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:serpent_scale"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.hiss_tory.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:serpent_scale"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.hiss_tory.title"
+    }
+  },
+  "requirements": [
+    [
+      "items"
+    ]
+  ]
+}

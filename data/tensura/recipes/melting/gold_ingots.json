@@ -1,0 +1,8 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "tag": "forge:ingots/gold"
+  },
+  "moltenAmount": 9,
+  "moltenType": "tensura:gold"
+}

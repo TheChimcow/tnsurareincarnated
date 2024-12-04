@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/orichalcum"
+      },
+      "amount": 4
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:orichalcum_boots",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:orichalcum_gear_schematic"
+  ]
+}

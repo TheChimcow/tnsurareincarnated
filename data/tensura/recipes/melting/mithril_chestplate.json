@@ -1,0 +1,8 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "tensura:mithril_chestplate"
+  },
+  "moltenAmount": 4,
+  "moltenType": "tensura:magisteel"
+}

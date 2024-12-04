@@ -1,0 +1,33 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:armoursaurus_shell"
+      },
+      "amount": 4
+    },
+    {
+      "type": {
+        "item": "tensura:armoursaurus_scale"
+      },
+      "amount": 3
+    },
+    {
+      "type": {
+        "item": "tensura:low_magisteel_ingot"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:armoursaurus_shield",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:armoursaurus_scalemail_gear_schematic",
+    "tensura:shield_schematic"
+  ]
+}

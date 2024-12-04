@@ -1,0 +1,9 @@
+{
+  "entity": "minecraft:evoker",
+  "evolution": "tensura:none",
+  "maxEP": 8000,
+  "minEP": 8000,
+  "skills": [
+    "tensura:sage"
+  ]
+}

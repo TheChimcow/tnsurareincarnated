@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:s_rank",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.ss_rank.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:hihiirokane_nugget"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.ss_rank.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

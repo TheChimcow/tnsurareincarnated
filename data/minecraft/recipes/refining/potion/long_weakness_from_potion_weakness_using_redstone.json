@@ -1,0 +1,24 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:redstone"
+      }
+    }
+  ],
+  "input": {
+    "Count": 1,
+    "id": "minecraft:potion",
+    "tag": {
+      "Potion": "minecraft:weakness"
+    }
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:potion",
+    "tag": {
+      "Potion": "minecraft:long_weakness"
+    }
+  }
+}

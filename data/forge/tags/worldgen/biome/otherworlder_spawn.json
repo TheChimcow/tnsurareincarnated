@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#forge:is_plains",
+    "#minecraft:is_hill",
+    "#forge:is_mountain",
+    "#minecraft:is_savanna",
+    "#forge:is_desert",
+    "#minecraft:is_badlands"
+  ]
+}

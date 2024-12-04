@@ -1,0 +1,27 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:flint"
+      }
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:feather"
+      }
+    }
+  ],
+  "result": {
+    "Count": 6,
+    "id": "minecraft:arrow"
+  },
+  "schematics": [
+    "tensura:basic_bows_schematic"
+  ]
+}

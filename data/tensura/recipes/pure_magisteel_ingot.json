@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "pure_magisteel_ingot",
+  "ingredients": [
+    {
+      "item": "tensura:block_of_pure_magisteel"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tensura:pure_magisteel_ingot"
+  }
+}

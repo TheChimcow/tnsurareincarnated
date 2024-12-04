@@ -1,0 +1,9 @@
+{
+  "entity": "minecraft:salmon",
+  "evolution": "tensura:giant_salmon",
+  "maxEP": 10,
+  "minEP": 10,
+  "skills": [
+    "tensura:water_breathing"
+  ]
+}

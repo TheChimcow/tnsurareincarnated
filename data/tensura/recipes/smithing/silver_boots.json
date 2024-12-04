@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/silver"
+      },
+      "amount": 4
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:silver_boots",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:silver_gear_schematic"
+  ]
+}

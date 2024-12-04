@@ -1,0 +1,40 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/orichalcum"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "tensura:pure_magisteel_ingot"
+      }
+    },
+    {
+      "type": {
+        "item": "tensura:magic_stone"
+      }
+    },
+    {
+      "type": {
+        "item": "tensura:monster_leather_a"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "minecraft:paper"
+      },
+      "amount": 3
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:skill_reset_scroll"
+  },
+  "schematics": [
+    "tensura:orichalcum_gear_schematic"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "combinationID": 36,
+  "fireCores": 3,
+  "fireMultiplier": 3.0,
+  "magicProjectile": {
+    "burnTicks": 300,
+    "damage": 3.0,
+    "effect": {
+      "effectID": "tensura:none"
+    },
+    "entity": "tensura:plasmas_ball",
+    "explosionRadius": 3.0,
+    "noGravity": true,
+    "speed": 1.0
+  }
+}

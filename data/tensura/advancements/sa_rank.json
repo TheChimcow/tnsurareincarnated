@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:a_rank",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.sa_rank.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:pure_magisteel_nugget"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.sa_rank.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

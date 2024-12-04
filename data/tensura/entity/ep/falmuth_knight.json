@@ -1,0 +1,7 @@
+{
+  "entity": "tensura:falmuth_knight",
+  "evolution": "tensura:none",
+  "maxEP": 3000,
+  "minEP": 2000,
+  "skills": []
+}

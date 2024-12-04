@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/mithril"
+      },
+      "amount": 4
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:mithril_boots",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:mithril_gear_schematic"
+  ]
+}

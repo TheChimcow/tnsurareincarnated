@@ -1,0 +1,10 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "minecraft:netherite_helmet"
+  },
+  "moltenAmount": 4,
+  "moltenType": "tensura:netherite",
+  "secondaryAmount": 8,
+  "secondaryType": "tensura:gold"
+}

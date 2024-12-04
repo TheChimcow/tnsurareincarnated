@@ -1,0 +1,30 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:spider_fang"
+      }
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:string"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:spider_dagger",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:hunting_knife_schematic"
+  ]
+}

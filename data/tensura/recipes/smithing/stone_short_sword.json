@@ -1,0 +1,25 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "minecraft:stone_tool_materials"
+      }
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:stone_short_sword",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:short_sword_schematic"
+  ]
+}

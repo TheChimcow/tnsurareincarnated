@@ -1,0 +1,37 @@
+{
+  "parent": "tensura:mithril",
+  "criteria": {
+    "items": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:orichalcum_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.orichalcum.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:orichalcum_ingot"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.orichalcum.title"
+    }
+  },
+  "requirements": [
+    [
+      "items"
+    ]
+  ]
+}

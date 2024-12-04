@@ -1,0 +1,15 @@
+{
+  "values": [
+    "minecraft:lava",
+    "minecraft:pointed_dripstone",
+    "minecraft:tripwire_hook",
+    "minecraft:tripwire",
+    "minecraft:sculk_sensor",
+    "minecraft:sculk_shrieker",
+    "minecraft:powder_snow",
+    "minecraft:cobweb",
+    "minecraft:trapped_chest",
+    "tensura:sticky_cobweb",
+    "tensura:sticky_steel_cobweb"
+  ]
+}

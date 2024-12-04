@@ -1,0 +1,10 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "tensura:block_of_low_magisteel"
+  },
+  "moltenAmount": 36,
+  "moltenType": "tensura:magisteel",
+  "secondaryAmount": 72,
+  "secondaryType": "tensura:iron"
+}

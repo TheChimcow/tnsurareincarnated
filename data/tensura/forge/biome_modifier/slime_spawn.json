@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:slime_spawn",
+  "spawners": {
+    "type": "tensura:slime",
+    "weight": 108,
+    "minCount": 1,
+    "maxCount": 5
+  }
+}

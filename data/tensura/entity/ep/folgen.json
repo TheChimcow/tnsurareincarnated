@@ -1,0 +1,9 @@
+{
+  "entity": "tensura:folgen",
+  "evolution": "tensura:none",
+  "maxEP": 140000,
+  "minEP": 120000,
+  "skills": [
+    "tensura:spearhead"
+  ]
+}

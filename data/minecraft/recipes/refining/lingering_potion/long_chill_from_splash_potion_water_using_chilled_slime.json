@@ -1,0 +1,39 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:chilled_slime"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:nether_wart"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:glowstone_dust"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:dragon_breath"
+      }
+    }
+  ],
+  "input": {
+    "Count": 1,
+    "id": "minecraft:splash_potion",
+    "tag": {
+      "Potion": "minecraft:water"
+    }
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:lingering_potion",
+    "tag": {
+      "Potion": "tensura:long_chill"
+    }
+  }
+}

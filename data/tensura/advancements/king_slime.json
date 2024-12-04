@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:grow_a_slime",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.king_slime.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:slime_chunk_block"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.king_slime.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

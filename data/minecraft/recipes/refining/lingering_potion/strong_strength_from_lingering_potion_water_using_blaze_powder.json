@@ -1,0 +1,34 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:blaze_powder"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:nether_wart"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:redstone"
+      }
+    }
+  ],
+  "input": {
+    "Count": 1,
+    "id": "minecraft:lingering_potion",
+    "tag": {
+      "Potion": "minecraft:water"
+    }
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:lingering_potion",
+    "tag": {
+      "Potion": "minecraft:strong_strength"
+    }
+  }
+}

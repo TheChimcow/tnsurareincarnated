@@ -1,0 +1,27 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:unicorn_horn"
+      }
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      },
+      "amount": 3
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:unicorn_horn_spear",
+    "tag": {
+      "Damage": 0,
+      "isTwoHanded": 1
+    }
+  },
+  "schematics": [
+    "tensura:spear_schematic"
+  ]
+}

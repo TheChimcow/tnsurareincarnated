@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "tensura:block/unlit_lantern"
+    },
+    "hanging=true": {
+      "model": "tensura:block/unlit_lantern_hanging"
+    }
+  }
+}

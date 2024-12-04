@@ -1,0 +1,7 @@
+{
+  "entity": "tensura:orc",
+  "evolution": "tensura:none",
+  "maxEP": 3000,
+  "minEP": 1000,
+  "skills": []
+}

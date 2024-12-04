@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:knight_spider_carapace"
+      },
+      "amount": 7
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:knight_spider_carapace_leggings",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:knight_spider_carapace_gear_schematic"
+  ]
+}

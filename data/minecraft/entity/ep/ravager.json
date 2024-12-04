@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:ravager",
+  "evolution": "tensura:none",
+  "maxEP": 5300,
+  "minEP": 5300,
+  "skills": []
+}

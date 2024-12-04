@@ -1,0 +1,23 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:iron_ingot"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "minecraft:ender_pearl"
+      }
+    }
+  ],
+  "result": {
+    "Count": 3,
+    "id": "tensura:severer_blade"
+  },
+  "schematics": [
+    "tensura:spatial_blade_schematic"
+  ]
+}

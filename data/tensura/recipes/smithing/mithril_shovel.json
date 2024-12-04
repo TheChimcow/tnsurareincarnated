@@ -1,0 +1,26 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/mithril"
+      }
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      },
+      "amount": 2
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:mithril_shovel",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:mithril_gear_schematic"
+  ]
+}

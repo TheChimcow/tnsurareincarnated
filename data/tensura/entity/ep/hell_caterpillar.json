@@ -1,0 +1,7 @@
+{
+  "entity": "tensura:hell_caterpillar",
+  "evolution": "tensura:hell_moth",
+  "maxEP": 4999,
+  "minEP": 3000,
+  "skills": []
+}

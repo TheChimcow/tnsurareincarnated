@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "tensura:monster_leather_a"
+    },
+    "M": {
+      "tag": "forge:ingots/mithril"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "tensura:magic_stone"
+    }
+  },
+  "pattern": [
+    "PMP",
+    "LSL",
+    "PMP"
+  ],
+  "result": {
+    "item": "tensura:race_reset_scroll"
+  }
+}

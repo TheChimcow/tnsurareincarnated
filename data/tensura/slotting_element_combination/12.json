@@ -1,0 +1,16 @@
+{
+  "combinationID": 12,
+  "fireCores": 1,
+  "fireMultiplier": 0.75,
+  "magicProjectile": {
+    "burnTicks": 100,
+    "damage": 1.25,
+    "effect": {
+      "effectID": "tensura:none"
+    },
+    "entity": "tensura:space_cut_projectile",
+    "speed": 1.75
+  },
+  "spaceCores": 1,
+  "spaceMultiplier": 0.75
+}

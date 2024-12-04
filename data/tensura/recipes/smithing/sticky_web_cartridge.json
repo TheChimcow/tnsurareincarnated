@@ -1,0 +1,28 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:copper_shell"
+      }
+    },
+    {
+      "type": {
+        "item": "tensura:sticky_thread"
+      },
+      "amount": 4
+    },
+    {
+      "type": {
+        "item": "minecraft:gunpowder"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:sticky_web_cartridge"
+  },
+  "schematics": [
+    "tensura:web_gun_schematic"
+  ]
+}

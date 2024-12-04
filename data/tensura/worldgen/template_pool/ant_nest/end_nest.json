@@ -1,0 +1,33 @@
+{
+  "name": "tensura:ant_nest/end_nest",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "location": "tensura:ant_nest/ant_nest_big_room",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "tensura:ant_nest/ant_nest_small_room",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "tensura:ant_nest/ant_nest_close_wall",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

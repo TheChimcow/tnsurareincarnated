@@ -1,0 +1,14 @@
+{
+  "entity": "tensura:sylphide",
+  "evolution": "tensura:none",
+  "maxEP": 150000,
+  "minEP": 120000,
+  "skills": [
+    "tensura:wind_transform",
+    "tensura:wind_manipulation",
+    "tensura:wind_blade",
+    "tensura:aerial_blade",
+    "tensura:electro_blast",
+    "tensura:wind_attack_nullification"
+  ]
+}

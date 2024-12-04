@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:c_rank",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.b_rank.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:mithril_nugget"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.b_rank.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

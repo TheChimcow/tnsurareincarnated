@@ -1,0 +1,10 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "tensura:high_magisteel_shovel"
+  },
+  "moltenAmount": 2,
+  "moltenType": "tensura:magisteel",
+  "secondaryAmount": 0,
+  "secondaryType": "tensura:iron"
+}

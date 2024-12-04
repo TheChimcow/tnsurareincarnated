@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:reincarnated",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.d_rank.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:low_magisteel_nugget"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.d_rank.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

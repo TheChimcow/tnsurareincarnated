@@ -1,0 +1,27 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:high_magisteel_ingot"
+      },
+      "amount": 3
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      },
+      "amount": 2
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:high_magisteel_sickle",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:high_magisteel_gear_schematic"
+  ]
+}

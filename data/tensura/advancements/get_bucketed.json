@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:tamed_a_slime",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.get_bucketed.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:slime_in_a_bucket"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.get_bucketed.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 1.5,
+  "ingredient": {
+    "item": "tensura:orichalcum_chestplate"
+  },
+  "result": "tensura:orichalcum_nugget"
+}

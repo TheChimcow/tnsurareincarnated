@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:creeper",
+  "evolution": "tensura:none",
+  "maxEP": 2200,
+  "minEP": 2200,
+  "skills": []
+}

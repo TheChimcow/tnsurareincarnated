@@ -1,0 +1,10 @@
+{
+  "entity": "tensura:tempest_serpent",
+  "evolution": "tensura:none",
+  "maxEP": 10000,
+  "minEP": 9000,
+  "skills": [
+    "tensura:poisonous_breath",
+    "tensura:sense_heat_source"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.03,
+  "item": "tensura:unicorn_horn_spear",
+  "maxEP": 52000,
+  "minEP": 18000
+}

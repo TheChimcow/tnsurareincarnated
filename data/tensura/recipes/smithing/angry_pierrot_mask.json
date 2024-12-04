@@ -1,0 +1,36 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:clay_ball"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "minecraft:red_dye"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:orange_dye"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:blue_dye"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:angry_pierrot_mask",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:pierrot_mask_schematic"
+  ]
+}

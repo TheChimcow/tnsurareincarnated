@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_Block{tensura:block_of_pure_magisteel}": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:block_of_pure_magisteel"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "tensura:pure_magisteel_ingot"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_Block{tensura:block_of_pure_magisteel}",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "tensura:pure_magisteel_ingot"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:just_a_test",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.elementalist.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:labyrinth_praying_path"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.elementalist.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

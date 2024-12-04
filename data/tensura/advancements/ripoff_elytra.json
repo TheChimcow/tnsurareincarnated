@@ -1,0 +1,38 @@
+{
+  "parent": "tensura:believe_to_fly",
+  "criteria": {
+    "items": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:bat_glider"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.ripoff_elytra.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:bat_glider",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.ripoff_elytra.title"
+    }
+  },
+  "requirements": [
+    [
+      "items"
+    ]
+  ]
+}

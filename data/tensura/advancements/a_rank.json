@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:b_rank",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.a_rank.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:orichalcum_nugget"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.a_rank.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

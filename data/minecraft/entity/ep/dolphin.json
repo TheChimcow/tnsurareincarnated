@@ -1,0 +1,9 @@
+{
+  "entity": "minecraft:dolphin",
+  "evolution": "tensura:none",
+  "maxEP": 30,
+  "minEP": 30,
+  "skills": [
+    "tensura:hydraulic_propulsion"
+  ]
+}

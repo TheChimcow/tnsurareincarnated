@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:piglin_brute",
+  "evolution": "tensura:none",
+  "maxEP": 6500,
+  "minEP": 6500,
+  "skills": []
+}

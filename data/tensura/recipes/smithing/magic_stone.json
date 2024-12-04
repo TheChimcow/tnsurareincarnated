@@ -1,0 +1,23 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:low_magisteel_ingot"
+      }
+    },
+    {
+      "type": {
+        "item": "tensura:low_quality_magic_crystal"
+      },
+      "amount": 8
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:magic_stone"
+  },
+  "schematics": [
+    "tensura:low_magisteel_gear_schematic"
+  ]
+}

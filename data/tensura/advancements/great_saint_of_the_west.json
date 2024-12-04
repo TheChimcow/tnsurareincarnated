@@ -1,0 +1,40 @@
+{
+  "parent": "tensura:hiss_tory",
+  "criteria": {
+    "entities": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "tensura:hinata_sakaguchi"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.great_saint_of_the_west.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:moonlight",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.great_saint_of_the_west.title"
+    }
+  },
+  "requirements": [
+    [
+      "entities"
+    ]
+  ]
+}

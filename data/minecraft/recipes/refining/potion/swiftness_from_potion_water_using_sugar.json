@@ -1,0 +1,29 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:sugar"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:nether_wart"
+      }
+    }
+  ],
+  "input": {
+    "Count": 1,
+    "id": "minecraft:potion",
+    "tag": {
+      "Potion": "minecraft:water"
+    }
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:potion",
+    "tag": {
+      "Potion": "minecraft:swiftness"
+    }
+  }
+}

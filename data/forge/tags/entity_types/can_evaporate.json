@@ -1,0 +1,16 @@
+{
+  "values": [
+    "tensura:water_ball",
+    "tensura:water_blade",
+    "tensura:water_breath",
+    "tensura:frost_ball",
+    "tensura:steam_ball",
+    "tensura:speared_fin_arrow",
+    "tensura:invisible_arrow",
+    "minecraft:snowball",
+    "minecraft:arrow",
+    "minecraft:spectral_arrow",
+    "minecraft:potion",
+    "minecraft:llama_spit"
+  ]
+}

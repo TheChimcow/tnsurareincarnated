@@ -1,0 +1,9 @@
+{
+  "entity": "minecraft:ender_dragon",
+  "evolution": "tensura:none",
+  "maxEP": 25000,
+  "minEP": 25000,
+  "skills": [
+    "tensura:self_regeneration"
+  ]
+}

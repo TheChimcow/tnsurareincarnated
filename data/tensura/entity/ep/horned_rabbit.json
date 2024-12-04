@@ -1,0 +1,7 @@
+{
+  "entity": "tensura:horned_rabbit",
+  "evolution": "tensura:none",
+  "maxEP": 6000,
+  "minEP": 3000,
+  "skills": []
+}

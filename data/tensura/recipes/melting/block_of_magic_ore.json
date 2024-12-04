@@ -1,0 +1,8 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "tensura:block_of_magic_ore"
+  },
+  "moltenAmount": 9,
+  "moltenType": "tensura:magisteel"
+}

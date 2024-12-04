@@ -1,0 +1,28 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:high_magisteel_ingot"
+      },
+      "amount": 4
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:high_magisteel_great_sword",
+    "tag": {
+      "Damage": 0,
+      "isTwoHanded": 1
+    }
+  },
+  "schematics": [
+    "tensura:high_magisteel_gear_schematic",
+    "tensura:great_sword_schematic"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "entity": "tensura:undine",
+  "evolution": "tensura:none",
+  "maxEP": 150000,
+  "minEP": 120000,
+  "skills": [
+    "tensura:water_transform",
+    "tensura:water_manipulation",
+    "tensura:water_cutter",
+    "tensura:acid_rain",
+    "tensura:water_attack_nullification"
+  ]
+}

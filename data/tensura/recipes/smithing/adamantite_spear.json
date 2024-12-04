@@ -1,0 +1,28 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/adamantite"
+      }
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      },
+      "amount": 4
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:adamantite_spear",
+    "tag": {
+      "Damage": 0,
+      "isTwoHanded": 1
+    }
+  },
+  "schematics": [
+    "tensura:adamantite_gear_schematic",
+    "tensura:spear_schematic"
+  ]
+}

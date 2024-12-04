@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.06,
+  "item": "tensura:angry_pierrot_mask",
+  "maxEP": 1000000,
+  "minEP": 10000
+}

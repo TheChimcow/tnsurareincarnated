@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "tensura:block/deepslate_magic_ore"
+    },
+    "axis=y": {
+      "model": "tensura:block/deepslate_magic_ore"
+    },
+    "axis=z": {
+      "model": "tensura:block/deepslate_magic_ore"
+    }
+  }
+}

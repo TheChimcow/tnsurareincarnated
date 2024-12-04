@@ -1,0 +1,27 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:pure_magisteel_ingot"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "minecraft:pink_dye"
+      },
+      "amount": 3
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:dragon_knuckle",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:pure_magisteel_gear_schematic"
+  ]
+}

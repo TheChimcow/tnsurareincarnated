@@ -1,0 +1,37 @@
+{
+  "parent": "tensura:ruler_of_the_skies",
+  "criteria": {
+    "items": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:music_disc_nanoda"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.nanoda.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:music_disc_nanoda"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.nanoda.title"
+    }
+  },
+  "requirements": [
+    [
+      "items"
+    ]
+  ]
+}

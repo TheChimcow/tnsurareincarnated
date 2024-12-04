@@ -1,0 +1,29 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:spider_eye"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:nether_wart"
+      }
+    }
+  ],
+  "input": {
+    "Count": 1,
+    "id": "minecraft:lingering_potion",
+    "tag": {
+      "Potion": "minecraft:water"
+    }
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:lingering_potion",
+    "tag": {
+      "Potion": "minecraft:poison"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:zombie_horse",
+  "evolution": "tensura:none",
+  "maxEP": 200,
+  "minEP": 200,
+  "skills": []
+}

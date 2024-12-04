@@ -1,0 +1,88 @@
+{
+  "name": "tensura:lizardmen_village/rooms",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "tensura:lizardman_village/swamp/swamp_lizardman_village_close_wall",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "tensura:lizardman_village/swamp/swamp_lizardman_village_cells",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "tensura:lizardman_village/swamp/swamp_lizardman_village_bedroom",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "tensura:lizardman_village/swamp/swamp_lizardman_village_storeroom",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "tensura:lizardman_village/swamp/swamp_lizardman_village_throne",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ,
+    {
+      "weight": 1,
+      "element": {
+        "location": "tensura:lizardman_village/swamp/swamp_lizardman_village_food_hall",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "tensura:lizardman_village/swamp/swamp_lizardman_village_smithy_a",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "tensura:lizardman_village/swamp/swamp_lizardman_village_smithy_b",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "tensura:lizardman_village/swamp/swamp_lizardman_village_smithy_c",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

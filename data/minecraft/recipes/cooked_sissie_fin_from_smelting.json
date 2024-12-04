@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.5,
+  "ingredient": {
+    "item": "tensura:sissie_fin"
+  },
+  "result": "tensura:cooked_sissie_fin"
+}

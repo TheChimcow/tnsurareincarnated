@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#forge:is_flat_land",
+    "#forge:is_hell",
+    "#minecraft:is_badlands",
+    "#minecraft:is_savanna"
+  ]
+}

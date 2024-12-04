@@ -1,0 +1,7 @@
+{
+  "entity": "tensura:knight_spider",
+  "evolution": "tensura:none",
+  "maxEP": 9999,
+  "minEP": 9000,
+  "skills": []
+}

@@ -1,0 +1,17 @@
+{
+  "combinationID": 43,
+  "fireCores": 1,
+  "fireMultiplier": 2.0,
+  "magicProjectile": {
+    "damage": 2.25,
+    "effect": {
+      "effectID": "tensura:none"
+    },
+    "entity": "tensura:invisible_fire_bolt",
+    "knockbackForce": 1.0,
+    "noGravity": true,
+    "speed": 2.75
+  },
+  "waterCores": 2,
+  "waterMultiplier": 3.0
+}

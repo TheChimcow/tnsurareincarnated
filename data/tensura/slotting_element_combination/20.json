@@ -1,0 +1,16 @@
+{
+  "combinationID": 20,
+  "magicProjectile": {
+    "burnTicks": -1,
+    "damage": 2.0,
+    "effect": {
+      "effectID": "tensura:none"
+    },
+    "entity": "tensura:wind_blade",
+    "knockbackForce": 1.0,
+    "noGravity": true,
+    "speed": 1.5
+  },
+  "windCores": 2,
+  "windMultiplier": 1.5
+}

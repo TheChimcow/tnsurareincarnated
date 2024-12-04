@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "tensura:adamantite_helmet",
+  "gainEP": 0.03,
+  "item": "tensura:mithril_helmet",
+  "maxEP": 225000,
+  "minEP": 45000
+}

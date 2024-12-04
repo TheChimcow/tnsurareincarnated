@@ -1,0 +1,12 @@
+{
+  "entity": "tensura:metal_slime",
+  "evolution": "tensura:none",
+  "maxEP": 300000,
+  "minEP": 100000,
+  "skills": [
+    "tensura:self_regeneration",
+    "tensura:body_armor",
+    "tensura:absorb_and_dissolve",
+    "tensura:physical_attack_resistance"
+  ]
+}

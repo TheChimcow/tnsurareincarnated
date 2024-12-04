@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: tensura
+Specification-Vendor: tensurasareus
+Specification-Version: 1
+Implementation-Title: TensuraMod
+Implementation-Version: 1.19.2-1.0.0.3
+Implementation-Vendor: tensurasareus
+Implementation-Timestamp: 2024-11-23T22:06:20+0700
+MixinConfigs: tensura.mixins.json
+

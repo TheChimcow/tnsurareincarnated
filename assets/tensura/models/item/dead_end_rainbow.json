@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "tensura:item/dead_end_rainbow_model"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "tensura:item/dead_end_rainbow_gui"
+    },
+    "fixed": {
+      "parent": "tensura:item/dead_end_rainbow_gui"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      },
+      "amount": 3
+    },
+    {
+      "type": {
+        "item": "minecraft:string"
+      },
+      "amount": 3
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "minecraft:bow",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:basic_bows_schematic"
+  ]
+}

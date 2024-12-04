@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:wither_skeleton",
+  "evolution": "tensura:none",
+  "maxEP": 3100,
+  "minEP": 3100,
+  "skills": [
+    "tensura:corrosion",
+    "tensura:heat_nullification"
+  ]
+}

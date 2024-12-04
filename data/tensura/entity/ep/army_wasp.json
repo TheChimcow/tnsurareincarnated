@@ -1,0 +1,7 @@
+{
+  "entity": "tensura:army_wasp",
+  "evolution": "tensura:none",
+  "maxEP": 15000,
+  "minEP": 10000,
+  "skills": []
+}

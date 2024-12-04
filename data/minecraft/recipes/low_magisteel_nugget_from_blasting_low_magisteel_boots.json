@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.5,
+  "ingredient": {
+    "item": "tensura:low_magisteel_boots"
+  },
+  "result": "tensura:low_magisteel_nugget"
+}

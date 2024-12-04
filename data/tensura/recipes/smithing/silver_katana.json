@@ -1,0 +1,28 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/silver"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:silver_katana",
+    "tag": {
+      "Damage": 0,
+      "isTwoHanded": 1
+    }
+  },
+  "schematics": [
+    "tensura:silver_gear_schematic",
+    "tensura:japanese_sword_schematic"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "entity": "tensura:giant_bat",
+  "evolution": "tensura:none",
+  "maxEP": 4999,
+  "minEP": 4334,
+  "skills": [
+    "tensura:drain",
+    "tensura:ultrasonic_waves"
+  ]
+}

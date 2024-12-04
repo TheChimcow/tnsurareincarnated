@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredient": {
+    "item": "tensura:high_magisteel_leggings"
+  },
+  "result": "tensura:high_magisteel_nugget"
+}

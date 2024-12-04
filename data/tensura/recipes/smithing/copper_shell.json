@@ -1,0 +1,17 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:copper_ingot"
+      }
+    }
+  ],
+  "result": {
+    "Count": 4,
+    "id": "tensura:copper_shell"
+  },
+  "schematics": [
+    "tensura:web_gun_schematic"
+  ]
+}

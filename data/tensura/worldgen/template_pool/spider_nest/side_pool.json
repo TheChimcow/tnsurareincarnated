@@ -1,0 +1,15 @@
+{
+  "name": "tensura:spider_nest/side_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "tensura:spider_nest/spider_nest_2",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

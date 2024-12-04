@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "tensura:high_quality_magic_crystal"
+    },
+    "P": {
+      "item": "tensura:pure_magisteel_ingot"
+    },
+    "S": {
+      "item": "minecraft:bricks"
+    }
+  },
+  "pattern": [
+    "SCS",
+    "SPS",
+    "SSS"
+  ],
+  "result": {
+    "item": "tensura:brick_magic_engine"
+  }
+}

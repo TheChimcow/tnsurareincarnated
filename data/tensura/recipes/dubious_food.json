@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:foods/dubious_ingredient_1"
+    },
+    {
+      "tag": "forge:foods/dubious_ingredient_2"
+    },
+    {
+      "tag": "forge:foods/dubious_ingredient_3"
+    },
+    {
+      "tag": "forge:foods/dubious_ingredient_4"
+    },
+    {
+      "tag": "forge:foods/dubious_ingredient_5"
+    },
+    {
+      "tag": "forge:foods/dubious_ingredient_6"
+    },
+    {
+      "tag": "forge:foods/dubious_ingredient_7"
+    },
+    {
+      "tag": "forge:foods/raw_monster_consumables"
+    },
+    {
+      "tag": "minecraft:small_flowers"
+    }
+  ],
+  "result": {
+    "item": "tensura:dubious_food"
+  }
+}

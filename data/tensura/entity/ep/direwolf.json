@@ -1,0 +1,10 @@
+{
+  "entity": "tensura:direwolf",
+  "evolution": "tensura:none",
+  "maxEP": 4333,
+  "minEP": 3667,
+  "skills": [
+    "tensura:coercion",
+    "tensura:thought_communication"
+  ]
+}

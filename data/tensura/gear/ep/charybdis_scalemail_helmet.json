@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "tensura:adamantite_helmet",
+  "gainEP": 0.035,
+  "item": "tensura:charybdis_scalemail_helmet",
+  "maxEP": 1000000,
+  "minEP": 60000
+}

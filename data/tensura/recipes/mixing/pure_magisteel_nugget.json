@@ -1,0 +1,11 @@
+{
+  "type": "tensura:kiln_mixing",
+  "inputRight": {
+    "amount": 4,
+    "moltenType": "tensura:magisteel"
+  },
+  "result": {
+    "Count": 1,
+    "id": "tensura:pure_magisteel_nugget"
+  }
+}

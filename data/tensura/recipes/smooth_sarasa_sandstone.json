@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "tensura:sarasa_sandstone"
+  },
+  "result": "tensura:smooth_sarasa_sandstone"
+}

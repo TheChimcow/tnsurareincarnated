@@ -1,0 +1,56 @@
+{
+  "variants": {
+    "facing=down,enabled=false": {
+      "model": "tensura:block/stone_brick_magic_engine",
+      "x": 180
+    },
+    "facing=east,enabled=false": {
+      "model": "tensura:block/stone_brick_magic_engine",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north,enabled=false": {
+      "model": "tensura:block/stone_brick_magic_engine",
+      "x": 90
+    },
+    "facing=south,enabled=false": {
+      "model": "tensura:block/stone_brick_magic_engine",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up,enabled=false": {
+      "model": "tensura:block/stone_brick_magic_engine"
+    },
+    "facing=west,enabled=false": {
+      "model": "tensura:block/stone_brick_magic_engine",
+      "x": 90,
+      "y": 270
+    },
+    "facing=down,enabled=true": {
+      "model": "tensura:block/stone_brick_magic_engine_active",
+      "x": 180
+    },
+    "facing=east,enabled=true": {
+      "model": "tensura:block/stone_brick_magic_engine_active",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north,enabled=true": {
+      "model": "tensura:block/stone_brick_magic_engine_active",
+      "x": 90
+    },
+    "facing=south,enabled=true": {
+      "model": "tensura:block/stone_brick_magic_engine_active",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up,enabled=true": {
+      "model": "tensura:block/stone_brick_magic_engine_active"
+    },
+    "facing=west,enabled=true": {
+      "model": "tensura:block/stone_brick_magic_engine_active",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "tensura:webbed_stone_bricks"
+  },
+  "result": "tensura:webbed_stone_brick_slab"
+}

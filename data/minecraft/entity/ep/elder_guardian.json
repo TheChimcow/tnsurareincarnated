@@ -1,0 +1,9 @@
+{
+  "entity": "minecraft:elder_guardian",
+  "evolution": "tensura:none",
+  "maxEP": 10000,
+  "minEP": 10000,
+  "skills": [
+    "tensura:coercion"
+  ]
+}

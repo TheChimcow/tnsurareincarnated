@@ -1,0 +1,149 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "tensura:item/aura_shield_model",
+		"particle": "tensura:item/aura_shield_model"
+	},
+	"elements": [
+		{
+			"name": "shield",
+			"from": [5, 10, 7],
+			"to": [11, 32, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 0, 8]},
+			"faces": {
+				"north": {"uv": [1.5, 0, 4.5, 11], "texture": "#1"},
+				"east": {"uv": [7.5, 0, 8, 11], "texture": "#1"},
+				"south": {"uv": [1.5, 0, 4.5, 11], "texture": "#1"},
+				"west": {"uv": [10, 0, 10.5, 11], "texture": "#1"},
+				"up": {"uv": [4.5, 0.5, 1.5, 0], "texture": "#1"},
+				"down": {"uv": [4.5, 10.5, 1.5, 11], "texture": "#1"}
+			}
+		},
+		{
+			"name": "shield",
+			"from": [11, 11, 7],
+			"to": [12, 31, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 1, 8]},
+			"faces": {
+				"north": {"uv": [1.5, 0.5, 1, 10.5], "texture": "#1"},
+				"east": {"uv": [7.5, 0.5, 7, 10.5], "texture": "#1"},
+				"south": {"uv": [1.5, 0.5, 1, 10.5], "texture": "#1"},
+				"west": {"uv": [10.5, 0.5, 10, 10.5], "texture": "#1"},
+				"up": {"uv": [1, 1, 1.5, 0.5], "texture": "#1"},
+				"down": {"uv": [1, 10, 1.5, 10.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "shield",
+			"from": [4, 11, 7],
+			"to": [5, 31, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 1, 8]},
+			"faces": {
+				"north": {"uv": [4.5, 0.5, 5, 10.5], "texture": "#1"},
+				"east": {"uv": [7.5, 0.5, 8, 10.5], "texture": "#1"},
+				"south": {"uv": [4.5, 0.5, 5, 10.5], "texture": "#1"},
+				"west": {"uv": [10.5, 0.5, 11, 10.5], "texture": "#1"},
+				"up": {"uv": [5, 1, 4.5, 0.5], "texture": "#1"},
+				"down": {"uv": [5, 10, 4.5, 10.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "shield",
+			"from": [12, 12, 7],
+			"to": [13, 30, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 2, 8]},
+			"faces": {
+				"north": {"uv": [1, 1, 0.5, 10], "texture": "#1"},
+				"east": {"uv": [11.5, 1, 11, 10], "texture": "#1"},
+				"south": {"uv": [1, 1, 0.5, 10], "texture": "#1"},
+				"west": {"uv": [11, 1, 10.5, 10], "texture": "#1"},
+				"up": {"uv": [0.5, 1.5, 1, 1], "texture": "#1"},
+				"down": {"uv": [0.5, 9.5, 1, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "shield",
+			"from": [3, 12, 7],
+			"to": [4, 30, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 2, 8]},
+			"faces": {
+				"north": {"uv": [5, 1, 5.5, 10], "texture": "#1"},
+				"east": {"uv": [7, 1, 7.5, 10], "texture": "#1"},
+				"south": {"uv": [5, 1, 5.5, 10], "texture": "#1"},
+				"west": {"uv": [6.5, 1, 7, 10], "texture": "#1"},
+				"up": {"uv": [5.5, 1.5, 5, 1], "texture": "#1"},
+				"down": {"uv": [5.5, 9.5, 5, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "shield",
+			"from": [13, 15, 7],
+			"to": [14, 28, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 5, 8]},
+			"faces": {
+				"north": {"uv": [0.5, 2, 0, 8.5], "texture": "#1"},
+				"east": {"uv": [6.5, 2, 6, 8.5], "texture": "#1"},
+				"south": {"uv": [0.5, 2, 0, 8.5], "texture": "#1"},
+				"west": {"uv": [7, 2, 6.5, 8.5], "texture": "#1"},
+				"up": {"uv": [0, 2.5, 0.5, 2], "texture": "#1"},
+				"down": {"uv": [0, 8, 0.5, 8.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "shield",
+			"from": [2, 15, 7],
+			"to": [3, 28, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 5, 8]},
+			"faces": {
+				"north": {"uv": [5.5, 2, 6, 8.5], "texture": "#1"},
+				"east": {"uv": [6.5, 2, 7, 8.5], "texture": "#1"},
+				"south": {"uv": [5.5, 2, 6, 8.5], "texture": "#1"},
+				"west": {"uv": [11.5, 2, 12, 8.5], "texture": "#1"},
+				"up": {"uv": [6, 2.5, 5.5, 2], "texture": "#1"},
+				"down": {"uv": [6, 8, 5.5, 8.5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [2.25, -14.75, 2.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [2.25, -14.75, 2.25]
+		},
+		"firstperson_righthand": {
+			"translation": [0, -18, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, -18, 0]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2.5, -13]
+		},
+		"gui": {
+			"rotation": [180, 0, -135],
+			"translation": [-5.25, -5.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"translation": [0, -17, -5.25],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"fixed": {
+			"translation": [0, -19.5, 0.25],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "shield",
+			"origin": [7, 15.5, 11],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+  "parent": "tensura:just_a_test",
+  "criteria": {
+    "entities": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "tensura:elemental_colossus"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.spirit_protector.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:block_of_pure_magisteel"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.spirit_protector.title"
+    }
+  },
+  "requirements": [
+    [
+      "entities"
+    ]
+  ]
+}

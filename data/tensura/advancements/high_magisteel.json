@@ -1,0 +1,37 @@
+{
+  "parent": "tensura:low_magisteel",
+  "criteria": {
+    "items": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:high_magisteel_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.high_magisteel.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:high_magisteel_ingot"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.high_magisteel.title"
+    }
+  },
+  "requirements": [
+    [
+      "items"
+    ]
+  ]
+}

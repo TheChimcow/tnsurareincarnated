@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tensura:sakura_planks"
+    }
+  ],
+  "result": {
+    "item": "tensura:sakura_button"
+  }
+}

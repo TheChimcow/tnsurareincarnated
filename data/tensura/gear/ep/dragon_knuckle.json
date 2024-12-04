@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.035,
+  "item": "tensura:dragon_knuckle",
+  "maxEP": 1000000,
+  "minEP": 52000
+}

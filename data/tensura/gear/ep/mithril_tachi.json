@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "tensura:adamantite_tachi",
+  "gainEP": 0.03,
+  "item": "tensura:mithril_tachi",
+  "maxEP": 225000,
+  "minEP": 45000
+}

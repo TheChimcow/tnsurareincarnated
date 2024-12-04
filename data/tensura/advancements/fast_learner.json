@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:reincarnated",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.fast_learner.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:low_quality_magic_crystal"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.fast_learner.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

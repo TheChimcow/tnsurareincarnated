@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:hound_dog_spawn",
+  "spawners": {
+    "type": "tensura:hound_dog",
+    "weight": 100,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

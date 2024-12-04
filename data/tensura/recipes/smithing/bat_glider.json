@@ -1,0 +1,32 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:giant_bat_wing"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "tensura:monster_leather_c"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "tensura:magic_stone"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:bat_glider",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:monster_leather_gear_schematic"
+  ]
+}

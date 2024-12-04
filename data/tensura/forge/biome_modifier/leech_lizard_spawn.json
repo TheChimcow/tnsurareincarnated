@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:leech_lizard_spawn",
+  "spawners": {
+    "type": "tensura:leech_lizard",
+    "weight": 100,
+    "minCount": 2,
+    "maxCount": 5
+  }
+}

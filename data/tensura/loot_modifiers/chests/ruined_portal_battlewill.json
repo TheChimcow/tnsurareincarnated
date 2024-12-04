@@ -1,0 +1,13 @@
+{
+  "type": "tensura:add_item_modifier",
+  "chance": 5.0,
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/ruined_portal"
+    }
+  ],
+  "item": "tensura:battlewill_manual",
+  "max": 1,
+  "min": 0
+}

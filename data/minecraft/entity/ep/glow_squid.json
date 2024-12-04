@@ -1,0 +1,9 @@
+{
+  "entity": "minecraft:glow_squid",
+  "evolution": "tensura:none",
+  "maxEP": 20,
+  "minEP": 20,
+  "skills": [
+    "tensura:water_breathing"
+  ]
+}

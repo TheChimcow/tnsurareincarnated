@@ -1,0 +1,12 @@
+{
+  "entity": "tensura:salamander",
+  "evolution": "tensura:none",
+  "maxEP": 8500,
+  "minEP": 7000,
+  "skills": [
+    "tensura:flame_breath",
+    "tensura:flame_transform",
+    "tensura:flame_manipulation",
+    "tensura:flame_attack_resistance"
+  ]
+}

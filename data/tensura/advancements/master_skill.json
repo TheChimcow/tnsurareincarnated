@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:fast_learner",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.master_skill.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:medium_quality_magic_crystal"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.master_skill.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

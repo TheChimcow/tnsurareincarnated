@@ -1,0 +1,30 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/orichalcum"
+      },
+      "amount": 4
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      },
+      "amount": 3
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:orichalcum_scythe",
+    "tag": {
+      "Damage": 0,
+      "isTwoHanded": 1
+    }
+  },
+  "schematics": [
+    "tensura:orichalcum_gear_schematic",
+    "tensura:great_sword_schematic",
+    "tensura:spear_schematic"
+  ]
+}

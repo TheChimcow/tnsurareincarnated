@@ -1,0 +1,15 @@
+{
+  "type": "tensura:kiln_mixing",
+  "inputLeft": {
+    "amount": 8,
+    "moltenType": "tensura:iron"
+  },
+  "inputRight": {
+    "amount": 4,
+    "moltenType": "tensura:magisteel"
+  },
+  "result": {
+    "Count": 1,
+    "id": "tensura:low_magisteel_ingot"
+  }
+}

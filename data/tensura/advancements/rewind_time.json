@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:reincarnated",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.rewind_time.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:character_reset_scroll"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.rewind_time.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

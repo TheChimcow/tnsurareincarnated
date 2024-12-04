@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:trader_llama",
+  "evolution": "tensura:none",
+  "maxEP": 120,
+  "minEP": 120,
+  "skills": []
+}

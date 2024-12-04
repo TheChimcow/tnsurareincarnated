@@ -1,0 +1,37 @@
+{
+  "parent": "tensura:reincarnated",
+  "criteria": {
+    "items": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:silver_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.acquire_silverware.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:silver_ingot"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.acquire_silverware.title"
+    }
+  },
+  "requirements": [
+    [
+      "items"
+    ]
+  ]
+}

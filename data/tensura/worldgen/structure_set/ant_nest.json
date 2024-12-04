@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "tensura:ant_nest",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 3637,
+    "spacing": 80,
+    "separation": 20
+  }
+}

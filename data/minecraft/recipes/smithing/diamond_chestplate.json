@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:diamond"
+      },
+      "amount": 8
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "minecraft:diamond_chestplate",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:diamond_gear_schematic"
+  ]
+}

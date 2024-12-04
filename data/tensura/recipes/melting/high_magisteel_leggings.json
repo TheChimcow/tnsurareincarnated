@@ -1,0 +1,10 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "tensura:high_magisteel_leggings"
+  },
+  "moltenAmount": 4,
+  "moltenType": "tensura:magisteel",
+  "secondaryAmount": 1,
+  "secondaryType": "tensura:iron"
+}

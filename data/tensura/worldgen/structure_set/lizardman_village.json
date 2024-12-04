@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "tensura:lizardman_village",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 4158,
+    "spacing": 30,
+    "separation": 15
+  }
+}

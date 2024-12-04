@@ -1,0 +1,9 @@
+{
+  "entity": "minecraft:bat",
+  "evolution": "tensura:none",
+  "maxEP": 10,
+  "minEP": 10,
+  "skills": [
+    "tensura:sense_soundwave"
+  ]
+}

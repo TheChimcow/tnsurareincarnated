@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:giant_ant_carapace"
+      },
+      "amount": 4
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:ant_carapace_boots",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:ant_carapace_gear_schematic"
+  ]
+}

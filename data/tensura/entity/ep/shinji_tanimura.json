@@ -1,0 +1,9 @@
+{
+  "entity": "tensura:shinji_tanimura",
+  "evolution": "tensura:none",
+  "maxEP": 130000,
+  "minEP": 120000,
+  "skills": [
+    "tensura:healer"
+  ]
+}

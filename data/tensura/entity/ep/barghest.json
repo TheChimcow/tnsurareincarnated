@@ -1,0 +1,7 @@
+{
+  "entity": "tensura:barghest",
+  "evolution": "tensura:none",
+  "maxEP": 4000,
+  "minEP": 2000,
+  "skills": []
+}

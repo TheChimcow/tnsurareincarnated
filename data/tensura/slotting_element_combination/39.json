@@ -1,0 +1,16 @@
+{
+  "combinationID": 39,
+  "fireCores": 2,
+  "fireMultiplier": 4.0,
+  "magicProjectile": {
+    "burnTicks": 300,
+    "damage": 2.0,
+    "effect": {
+      "effectID": "tensura:none"
+    },
+    "entity": "tensura:fire_bolt",
+    "explosionRadius": 3.0,
+    "speed": 2.0
+  },
+  "windCores": 1
+}

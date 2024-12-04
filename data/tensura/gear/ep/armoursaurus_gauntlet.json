@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.015,
+  "item": "tensura:armoursaurus_gauntlet",
+  "maxEP": 100000,
+  "minEP": 4800
+}

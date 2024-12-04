@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/hihiirokane"
+      },
+      "amount": 8
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:hihiirokane_chestplate",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:hihiirokane_gear_schematic"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:apple"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:gold_ingot"
+      },
+      "amount": 8
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "minecraft:golden_apple"
+  },
+  "schematics": [
+    "tensura:gold_gear_schematic"
+  ]
+}

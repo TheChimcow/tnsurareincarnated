@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "silver_nugget",
+  "ingredients": [
+    {
+      "item": "tensura:silver_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tensura:silver_nugget"
+  }
+}

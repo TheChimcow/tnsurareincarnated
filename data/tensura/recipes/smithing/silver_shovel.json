@@ -1,0 +1,26 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/silver"
+      }
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      },
+      "amount": 2
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:silver_shovel",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:silver_gear_schematic"
+  ]
+}

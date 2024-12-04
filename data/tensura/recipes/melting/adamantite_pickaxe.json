@@ -1,0 +1,8 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "tensura:adamantite_pickaxe"
+  },
+  "moltenAmount": 8,
+  "moltenType": "tensura:magisteel"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:otherworlder_spawn",
+  "spawners": {
+    "type": "tensura:kyoya_tachibana",
+    "weight": 5,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

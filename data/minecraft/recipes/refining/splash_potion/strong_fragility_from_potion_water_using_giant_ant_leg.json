@@ -1,0 +1,39 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:giant_ant_leg"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:nether_wart"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:redstone"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:gunpowder"
+      }
+    }
+  ],
+  "input": {
+    "Count": 1,
+    "id": "minecraft:potion",
+    "tag": {
+      "Potion": "minecraft:water"
+    }
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:splash_potion",
+    "tag": {
+      "Potion": "tensura:strong_fragility"
+    }
+  }
+}

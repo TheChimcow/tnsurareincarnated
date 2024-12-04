@@ -1,0 +1,7 @@
+{
+  "entity": "tensura:giant_bear",
+  "evolution": "tensura:none",
+  "maxEP": 7000,
+  "minEP": 4000,
+  "skills": []
+}

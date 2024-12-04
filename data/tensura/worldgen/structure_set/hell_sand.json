@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "tensura:hell_sand",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 18634230,
+    "spacing": 5,
+    "separation": 4
+  }
+}

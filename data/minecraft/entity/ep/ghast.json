@@ -1,0 +1,9 @@
+{
+  "entity": "minecraft:ghast",
+  "evolution": "tensura:none",
+  "maxEP": 3000,
+  "minEP": 3000,
+  "skills": [
+    "tensura:heat_nullification"
+  ]
+}

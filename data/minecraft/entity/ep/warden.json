@@ -1,0 +1,12 @@
+{
+  "entity": "minecraft:warden",
+  "evolution": "tensura:none",
+  "maxEP": 10000,
+  "minEP": 10000,
+  "skills": [
+    "tensura:steel_strength",
+    "tensura:ultrasonic_waves",
+    "tensura:sense_soundwave",
+    "tensura:heat_resistance"
+  ]
+}

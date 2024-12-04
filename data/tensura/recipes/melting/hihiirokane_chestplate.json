@@ -1,0 +1,8 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "tensura:hihiirokane_chestplate"
+  },
+  "moltenAmount": 24,
+  "moltenType": "tensura:magisteel"
+}

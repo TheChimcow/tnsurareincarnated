@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.035,
+  "item": "tensura:monster_leather_boots_special_a",
+  "maxEP": 1000000,
+  "minEP": 80000
+}

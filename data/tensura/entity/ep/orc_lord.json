@@ -1,0 +1,14 @@
+{
+  "entity": "tensura:orc_lord",
+  "evolution": "tensura:none",
+  "maxEP": 90000,
+  "minEP": 80000,
+  "skills": [
+    "tensura:starved",
+    "tensura:corrosion",
+    "tensura:self_regeneration",
+    "tensura:strength",
+    "tensura:scale_armor",
+    "tensura:scale_armor"
+  ]
+}

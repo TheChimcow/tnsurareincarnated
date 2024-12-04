@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "adamantite_nugget",
+  "ingredients": [
+    {
+      "item": "tensura:adamantite_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tensura:adamantite_nugget"
+  }
+}

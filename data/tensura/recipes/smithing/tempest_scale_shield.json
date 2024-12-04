@@ -1,0 +1,27 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:charybdis_scale"
+      },
+      "amount": 6
+    },
+    {
+      "type": {
+        "item": "tensura:high_magisteel_ingot"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:tempest_scale_shield",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:charybdis_scalemail_gear_schematic",
+    "tensura:shield_schematic"
+  ]
+}

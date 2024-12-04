@@ -1,0 +1,13 @@
+{
+  "entity": "tensura:war_gnome",
+  "evolution": "tensura:none",
+  "maxEP": 150000,
+  "minEP": 120000,
+  "skills": [
+    "tensura:earth_transform",
+    "tensura:earth_manipulation",
+    "tensura:earth_spikes",
+    "tensura:earth_jail",
+    "tensura:earth_attack_nullification"
+  ]
+}

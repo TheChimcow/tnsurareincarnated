@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "tensura:item/armoursaurus_shield_model_blocking"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "tensura:item/armoursaurus_shield_gui"
+    },
+    "fixed": {
+      "parent": "tensura:item/armoursaurus_shield_gui"
+    }
+  }
+}

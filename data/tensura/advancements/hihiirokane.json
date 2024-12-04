@@ -1,0 +1,284 @@
+{
+  "parent": "tensura:adamantite",
+  "criteria": {
+    "hihiirokane_axe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_axe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_boots": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_boots"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_chestplate": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_chestplate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_great_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_great_sword"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_helmet": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_helmet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_hoe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_hoe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_katana": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_katana"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_kodachi": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_kodachi"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_leggings": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_leggings"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_long_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_long_sword"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_odachi": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_odachi"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_pickaxe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_scythe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_scythe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_short_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_short_sword"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_shovel": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_shovel"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_sickle": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_sickle"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_spear": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_spear"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_sword"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "hihiirokane_tachi": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:hihiirokane_tachi"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.hihiirokane.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:hihiirokane_ingot"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.hihiirokane.title"
+    }
+  },
+  "requirements": [
+    [
+      "hihiirokane_ingot",
+      "hihiirokane_sword",
+      "hihiirokane_katana",
+      "hihiirokane_short_sword",
+      "hihiirokane_kodachi",
+      "hihiirokane_long_sword",
+      "hihiirokane_tachi",
+      "hihiirokane_great_sword",
+      "hihiirokane_odachi",
+      "hihiirokane_pickaxe",
+      "hihiirokane_axe",
+      "hihiirokane_shovel",
+      "hihiirokane_hoe",
+      "hihiirokane_sickle",
+      "hihiirokane_spear",
+      "hihiirokane_scythe",
+      "hihiirokane_helmet",
+      "hihiirokane_chestplate",
+      "hihiirokane_leggings",
+      "hihiirokane_boots"
+    ]
+  ]
+}

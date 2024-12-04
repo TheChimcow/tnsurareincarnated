@@ -1,0 +1,15 @@
+{
+  "name": "tensura:charybdis_cave/rooms",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "tensura:charybdis_cave/charybdis_room",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

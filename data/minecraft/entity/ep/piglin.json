@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:piglin",
+  "evolution": "tensura:none",
+  "maxEP": 2000,
+  "minEP": 2000,
+  "skills": []
+}

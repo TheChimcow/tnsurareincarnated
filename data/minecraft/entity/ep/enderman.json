@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:enderman",
+  "evolution": "tensura:none",
+  "maxEP": 3300,
+  "minEP": 3300,
+  "skills": [
+    "tensura:shadow_motion",
+    "tensura:danger_sense"
+  ]
+}

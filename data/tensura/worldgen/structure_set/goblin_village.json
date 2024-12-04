@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "tensura:goblin_village",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 3,
+    "spacing": 30,
+    "separation": 15
+  }
+}

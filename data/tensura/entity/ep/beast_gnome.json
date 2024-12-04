@@ -1,0 +1,12 @@
+{
+  "entity": "tensura:beast_gnome",
+  "evolution": "tensura:none",
+  "maxEP": 9000,
+  "minEP": 5000,
+  "skills": [
+    "tensura:earth_manipulation",
+    "tensura:magic_sense",
+    "tensura:earth_transform",
+    "tensura:earth_attack_resistance"
+  ]
+}

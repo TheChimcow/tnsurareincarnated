@@ -1,0 +1,54 @@
+{
+  "parent": "tensura:reincarnated",
+  "criteria": {
+    "metal_slime": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "tensura:metal_slime"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:tame_animal"
+    },
+    "slime": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "tensura:slime"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:tame_animal"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.tamed_a_slime.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:slime_chunk"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.tamed_a_slime.title"
+    }
+  },
+  "requirements": [
+    [
+      "slime",
+      "metal_slime"
+    ]
+  ]
+}

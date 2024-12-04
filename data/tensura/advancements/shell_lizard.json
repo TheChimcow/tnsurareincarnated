@@ -1,0 +1,52 @@
+{
+  "parent": "tensura:arachnophobic",
+  "criteria": {
+    "armoursaurus_scale": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:armoursaurus_scale"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "armoursaurus_shell": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:armoursaurus_shell"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.shell_lizard.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:armoursaurus_shell"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.shell_lizard.title"
+    }
+  },
+  "requirements": [
+    [
+      "armoursaurus_scale"
+    ],
+    [
+      "armoursaurus_shell"
+    ]
+  ]
+}

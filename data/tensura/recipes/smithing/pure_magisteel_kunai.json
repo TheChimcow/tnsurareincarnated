@@ -1,0 +1,22 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:pure_magisteel_nugget"
+      },
+      "amount": 5
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:pure_magisteel_kunai",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:kunai_schematic",
+    "tensura:pure_magisteel_gear_schematic"
+  ]
+}

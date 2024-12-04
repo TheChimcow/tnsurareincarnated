@@ -1,0 +1,232 @@
+{
+  "small_jump_impact": {
+    "subtitle": "sounds.tensura.small_jump_impact",
+    "sounds": [
+      "tensura:small_jump_impact"
+    ]
+  },
+  "bird_death": {
+    "sounds": [
+      {
+        "name": "mob/parrot/death1",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/parrot/death2",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/parrot/death3",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/parrot/death4",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "sounds.tensura.bird_death"
+  },
+  "bird_flap": {
+    "sounds": [
+      {
+        "name": "mob/phantom/flap1",
+        "volume": 0.9
+      },
+      {
+        "name": "mob/phantom/flap2",
+        "volume": 0.9
+      },
+      {
+        "name": "mob/phantom/flap3",
+        "volume": 0.9
+      },
+      {
+        "name": "mob/phantom/flap4",
+        "volume": 0.9
+      },
+      {
+        "name": "mob/phantom/flap5",
+        "volume": 0.9
+      },
+      {
+        "name": "mob/phantom/flap6",
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "sounds.tensura.bird_flap"
+  },
+  "bird_hurt": {
+    "sounds": [
+      {
+        "name": "mob/parrot/hurt1",
+        "pitch": 0.8
+      },
+      {
+        "name": "mob/parrot/hurt1",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/parrot/hurt2",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "sounds.tensura.bird_hurt"
+  },
+  "caterpillar_ambient": {
+    "subtitle": "sounds.tensura.caterpillar_ambient",
+    "sounds": [
+      "tensura:caterpillar_ambient"
+    ]
+  },
+  "eat": {
+    "subtitle": "sounds.tensura.eating_sound",
+    "sounds": [
+      "tensura:eat"
+    ]
+  },
+  "small_chew": {
+    "subtitle": "sounds.tensura.small_chew",
+    "sounds": [
+      "tensura:small_chew"
+    ]
+  },
+  "lizard_ambient": {
+    "subtitle": "sounds.tensura.lizard_ambient",
+    "sounds": [
+      "tensura:lizard_ambient"
+    ]
+  },
+  "lizard_baby_ambient": {
+    "subtitle": "sounds.tensura.lizard_baby_ambient",
+    "sounds": [
+      "tensura:lizard_baby_ambient"
+    ]
+  },
+  "lizard_hurt": {
+    "subtitle": "sounds.tensura.lizard_hurt",
+    "sounds": [
+      "tensura:lizard_hurt"
+    ]
+  },
+  "lizard_angry": {
+    "subtitle": "sounds.tensura.lizard_angry",
+    "sounds": [
+      "tensura:lizard_angry"
+    ]
+  },
+  "moth_ambient": {
+    "subtitle": "sounds.tensura.moth_ambient",
+    "sounds": [
+      "tensura:moth_ambient"
+    ]
+  },
+  "moth_hurt": {
+    "subtitle": "sounds.tensura.moth_hurt",
+    "sounds": [
+      "tensura:moth_hurt"
+    ]
+  },
+  "moth_death": {
+    "subtitle": "sounds.tensura.moth_death",
+    "sounds": [
+      "tensura:moth_death"
+    ]
+  },
+  "owl_ambient": {
+    "subtitle": "sounds.tensura.owl_ambient",
+    "sounds": [
+      "tensura:owl_ambient"
+    ]
+  },
+  "peacock_ambient": {
+    "subtitle": "sounds.tensura.peacock_ambient",
+    "sounds": [
+      "tensura:peacock_ambient"
+    ]
+  },
+  "nanoda": {
+    "sounds": [
+      {
+        "name": "tensura:nanoda",
+        "stream": true
+      }
+    ]
+  },
+  "cave19": {
+    "sounds": [
+      {
+        "name": "tensura:cave19"
+      }
+    ]
+  },
+  "animal1": {
+    "sounds": [
+      {
+        "name": "tensura:animal1"
+      }
+    ]
+  },
+  "dark1": {
+    "sounds": [
+      {
+        "name": "tensura:dark1"
+      }
+    ]
+  },
+  "dark4": {
+    "sounds": [
+      {
+        "name": "tensura:dark4"
+      }
+    ]
+  },
+  "voices3": {
+    "sounds": [
+      {
+        "name": "tensura:voices3"
+      }
+    ]
+  },
+  "voices4": {
+    "sounds": [
+      {
+        "name": "tensura:voices4"
+      }
+    ]
+  },
+  "whisper1": {
+    "sounds": [
+      {
+        "name": "tensura:whisper1"
+      }
+    ]
+  },
+  "addition6": {
+    "sounds": [
+      {
+        "name": "tensura:addition6"
+      }
+    ]
+  },
+  "driplets1": {
+    "sounds": [
+      {
+        "name": "tensura:driplets1"
+      }
+    ]
+  },
+  "heartbeat1": {
+    "sounds": [
+      {
+        "name": "tensura:heartbeat1"
+      }
+    ]
+  },
+  "heartbeat2": {
+    "sounds": [
+      {
+        "name": "tensura:heartbeat2"
+      }
+    ]
+  }
+}

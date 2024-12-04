@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:parrot",
+  "evolution": "tensura:none",
+  "maxEP": 10,
+  "minEP": 10,
+  "skills": []
+}

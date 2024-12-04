@@ -1,0 +1,26 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:iron_ingot"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "minecraft:redstone"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:web_gun",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:web_gun_schematic"
+  ]
+}

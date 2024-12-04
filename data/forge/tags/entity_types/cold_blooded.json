@@ -1,0 +1,26 @@
+{
+  "values": [
+    "#forge:no_blood",
+    "minecraft:axolotl",
+    "minecraft:cod",
+    "minecraft:elder_guardian",
+    "minecraft:frog",
+    "minecraft:glow_squid",
+    "minecraft:guardian",
+    "minecraft:pufferfish",
+    "minecraft:salmon",
+    "minecraft:squid",
+    "minecraft:tadpole",
+    "minecraft:tropical_fish",
+    "minecraft:turtle",
+    "minecraft:dolphin",
+    "tensura:armoursaurus",
+    "tensura:giant_cod",
+    "tensura:giant_salmon",
+    "tensura:hover_lizard",
+    "tensura:leech_lizard",
+    "tensura:lizardman",
+    "tensura:sissie",
+    "tensura:spear_toro"
+  ]
+}

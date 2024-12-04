@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:serpent_scale"
+      },
+      "amount": 7
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:serpent_scalemail_leggings",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:serpent_scalemail_gear_schematic"
+  ]
+}

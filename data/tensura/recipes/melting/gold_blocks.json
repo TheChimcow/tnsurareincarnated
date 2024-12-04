@@ -1,0 +1,8 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "tag": "forge:storage_blocks/gold"
+  },
+  "moltenAmount": 81,
+  "moltenType": "tensura:gold"
+}

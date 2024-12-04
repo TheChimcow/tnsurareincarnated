@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:get_bucketed",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.grow_a_slime.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:slime_core"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.grow_a_slime.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

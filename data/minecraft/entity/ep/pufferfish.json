@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:pufferfish",
+  "evolution": "tensura:none",
+  "maxEP": 50,
+  "minEP": 50,
+  "skills": [
+    "tensura:poison",
+    "tensura:water_breathing"
+  ]
+}

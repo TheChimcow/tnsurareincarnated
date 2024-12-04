@@ -1,0 +1,30 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:monster_leather_c"
+      },
+      "amount": 5
+    },
+    {
+      "type": {
+        "item": "tensura:pure_magisteel_nugget"
+      },
+      "amount": 8
+    },
+    {
+      "type": {
+        "item": "tensura:steel_thread"
+      },
+      "amount": 2
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:monster_saddle"
+  },
+  "schematics": [
+    "tensura:monster_leather_gear_schematic"
+  ]
+}

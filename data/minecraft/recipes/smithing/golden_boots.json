@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:gold_ingot"
+      },
+      "amount": 4
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "minecraft:golden_boots",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:gold_gear_schematic"
+  ]
+}

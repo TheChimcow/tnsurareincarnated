@@ -1,0 +1,10 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "tensura:low_magisteel_sword"
+  },
+  "moltenAmount": 0,
+  "moltenType": "tensura:magisteel",
+  "secondaryAmount": 1,
+  "secondaryType": "tensura:iron"
+}

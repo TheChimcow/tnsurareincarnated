@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "tensura:item/armoursaurus_gauntlet_model"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "tensura:item/armoursaurus_gauntlet_gui"
+    },
+    "fixed": {
+      "parent": "tensura:item/armoursaurus_gauntlet_gui"
+    }
+  }
+}

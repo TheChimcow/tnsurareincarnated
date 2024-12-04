@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tensura:slime_chunk"
+    },
+    {
+      "item": "tensura:slime_chunk"
+    },
+    {
+      "item": "tensura:slime_chunk"
+    },
+    {
+      "item": "tensura:slime_chunk"
+    }
+  ],
+  "result": {
+    "item": "minecraft:slime_ball"
+  }
+}

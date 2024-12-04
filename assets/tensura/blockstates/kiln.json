@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "facing=north,lit=false,part=base": {
+      "model": "tensura:block/kiln",
+      "y": 0
+    },
+    "facing=east,lit=false,part=base": {
+      "model": "tensura:block/kiln",
+      "y": 90
+    },
+    "facing=south,lit=false,part=base": {
+      "model": "tensura:block/kiln",
+      "y": 180
+    },
+    "facing=west,lit=false,part=base": {
+      "model": "tensura:block/kiln",
+      "y": 270
+    },
+    "facing=north,lit=true,part=base": {
+      "model": "tensura:block/kiln_on",
+      "y": 0
+    },
+    "facing=east,lit=true,part=base": {
+      "model": "tensura:block/kiln_on",
+      "y": 90
+    },
+    "facing=south,lit=true,part=base": {
+      "model": "tensura:block/kiln_on",
+      "y": 180
+    },
+    "facing=west,lit=true,part=base": {
+      "model": "tensura:block/kiln_on",
+      "y": 270
+    },
+    "facing=north,lit=false,part=top": {
+      "model": "tensura:block/kiln_top",
+      "y": 0
+    },
+    "facing=east,lit=false,part=top": {
+      "model": "tensura:block/kiln_top",
+      "y": 90
+    },
+    "facing=south,lit=false,part=top": {
+      "model": "tensura:block/kiln_top",
+      "y": 180
+    },
+    "facing=west,lit=false,part=top": {
+      "model": "tensura:block/kiln_top",
+      "y": 270
+    }
+  }
+}

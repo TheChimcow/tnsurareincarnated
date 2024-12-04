@@ -1,0 +1,11 @@
+{
+  "entity": "minecraft:wither",
+  "evolution": "tensura:none",
+  "maxEP": 15000,
+  "minEP": 15000,
+  "skills": [
+    "tensura:gravity_flight",
+    "tensura:corrosion",
+    "tensura:self_regeneration"
+  ]
+}

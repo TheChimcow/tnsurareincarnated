@@ -1,0 +1,26 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:low_magisteel_ingot"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:low_magisteel_sword",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:low_magisteel_gear_schematic"
+  ]
+}

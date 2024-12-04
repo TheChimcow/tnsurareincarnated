@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:monster_leather_d"
+      },
+      "amount": 4
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:monster_leather_boots_d",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:monster_leather_gear_schematic"
+  ]
+}

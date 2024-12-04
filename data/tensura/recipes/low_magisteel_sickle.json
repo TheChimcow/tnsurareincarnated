@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "tag": "forge:rods/wooden"
+    },
+    "X": {
+      "item": "tensura:low_magisteel_ingot"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "  S",
+    "  S"
+  ],
+  "result": {
+    "item": "tensura:low_magisteel_sickle"
+  }
+}

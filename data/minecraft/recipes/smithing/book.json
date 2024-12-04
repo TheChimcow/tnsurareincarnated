@@ -1,0 +1,23 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:paper"
+      },
+      "amount": 3
+    },
+    {
+      "type": {
+        "item": "tensura:monster_leather_d"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "minecraft:book"
+  },
+  "schematics": [
+    "tensura:monster_leather_gear_schematic"
+  ]
+}

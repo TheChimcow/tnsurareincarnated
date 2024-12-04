@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:axolotl",
+  "evolution": "tensura:none",
+  "maxEP": 10,
+  "minEP": 10,
+  "skills": [
+    "tensura:self_regeneration",
+    "tensura:water_breathing"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "tensura:adamantite_chestplate",
+  "gainEP": 0.035,
+  "item": "tensura:charybdis_scalemail_chestplate",
+  "maxEP": 1000000,
+  "minEP": 60000
+}

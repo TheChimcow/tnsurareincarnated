@@ -1,0 +1,14 @@
+{
+  "values": [
+    "#minecraft:wooden_pressure_plates",
+    "#forge:seeds",
+    "#forge:dyes",
+    "minecraft:honey_block",
+    "minecraft:stick",
+    "minecraft:cake",
+    "minecraft:sugar",
+    "minecraft:leather",
+    "minecraft:enchanted_golden_apple",
+    "tensura:enchanted_silver_apple"
+  ]
+}

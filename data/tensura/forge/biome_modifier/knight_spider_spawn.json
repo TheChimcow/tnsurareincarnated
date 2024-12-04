@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:knight_spider_spawn",
+  "spawners": {
+    "type": "tensura:knight_spider",
+    "weight": 120,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

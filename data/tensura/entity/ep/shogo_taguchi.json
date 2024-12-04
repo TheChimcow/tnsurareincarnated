@@ -1,0 +1,10 @@
+{
+  "entity": "tensura:shogo_taguchi",
+  "evolution": "tensura:none",
+  "maxEP": 100000,
+  "minEP": 80000,
+  "skills": [
+    "tensura:berserker",
+    "tensura:survivor"
+  ]
+}

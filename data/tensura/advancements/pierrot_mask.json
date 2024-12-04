@@ -1,0 +1,77 @@
+{
+  "parent": "tensura:better_smelter",
+  "criteria": {
+    "angry": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:angry_pierrot_mask"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "crazy": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:crazy_pierrot_mask"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "teary": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:teary_pierrot_mask"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "wonder": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:wonder_pierrot_mask"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.pierrot_mask.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:crazy_pierrot_mask",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.pierrot_mask.title"
+    }
+  },
+  "requirements": [
+    [
+      "angry",
+      "crazy",
+      "teary",
+      "wonder"
+    ]
+  ]
+}

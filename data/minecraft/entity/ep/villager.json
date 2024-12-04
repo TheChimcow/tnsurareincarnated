@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:villager",
+  "evolution": "tensura:none",
+  "maxEP": 1000,
+  "minEP": 1000,
+  "skills": []
+}

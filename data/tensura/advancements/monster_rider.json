@@ -1,0 +1,37 @@
+{
+  "parent": "tensura:getcha_better_leathers",
+  "criteria": {
+    "items": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:monster_saddle"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.monster_rider.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:monster_saddle"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.monster_rider.title"
+    }
+  },
+  "requirements": [
+    [
+      "items"
+    ]
+  ]
+}

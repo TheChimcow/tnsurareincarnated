@@ -1,0 +1,33 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:monster_leather_c"
+      },
+      "amount": 4
+    },
+    {
+      "type": {
+        "item": "tensura:dragon_peacock_feather"
+      },
+      "amount": 4
+    },
+    {
+      "type": {
+        "item": "tensura:magic_stone"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:winged_shoes",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:monster_leather_gear_schematic",
+    "tensura:winged_shoes_schematic"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "parent": "tensura:labyrinth",
+  "criteria": {
+    "entities": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "tensura:elemental_colossus"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:entity_killed_player"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.just_a_test.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:labyrinth_stone"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.just_a_test.title"
+    }
+  },
+  "requirements": [
+    [
+      "entities"
+    ]
+  ]
+}

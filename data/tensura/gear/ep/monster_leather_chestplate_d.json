@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "tensura:monster_leather_chestplate_c",
+  "gainEP": 0.005,
+  "item": "tensura:monster_leather_chestplate_d",
+  "maxEP": 2500,
+  "minEP": 1000
+}

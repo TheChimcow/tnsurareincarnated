@@ -1,0 +1,9 @@
+{
+  "entity": "tensura:leech_lizard",
+  "evolution": "tensura:none",
+  "maxEP": 6000,
+  "minEP": 3000,
+  "skills": [
+    "tensura:sense_heat_source"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tensura:add_item_modifier",
+  "chance": 0.005,
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/ancient_city"
+    }
+  ],
+  "item": "tensura:marionette_heart",
+  "max": 1,
+  "min": 1
+}

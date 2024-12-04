@@ -1,0 +1,89 @@
+{
+  "parent": "tensura:acquire_silverware",
+  "criteria": {
+    "monster_leather_a": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:monster_leather_a"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "monster_leather_b": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:monster_leather_b"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "monster_leather_c": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:monster_leather_c"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "monster_leather_d": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:monster_leather_d"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "monster_leather_special_a": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:monster_leather_special_a"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.getcha_better_leathers.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:monster_leather_d"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.getcha_better_leathers.title"
+    }
+  },
+  "requirements": [
+    [
+      "monster_leather_d",
+      "monster_leather_c",
+      "monster_leather_b",
+      "monster_leather_a",
+      "monster_leather_special_a"
+    ]
+  ]
+}

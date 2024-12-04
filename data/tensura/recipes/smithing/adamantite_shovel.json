@@ -1,0 +1,26 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/adamantite"
+      }
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      },
+      "amount": 2
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:adamantite_shovel",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:adamantite_gear_schematic"
+  ]
+}

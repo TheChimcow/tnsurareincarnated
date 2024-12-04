@@ -1,0 +1,41 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:clay_ball"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "minecraft:blue_dye"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:black_dye"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:red_dye"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:pink_dye"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:wonder_pierrot_mask",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:pierrot_mask_schematic"
+  ]
+}

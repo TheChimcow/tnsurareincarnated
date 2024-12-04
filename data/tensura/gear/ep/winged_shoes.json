@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.01,
+  "item": "tensura:winged_shoes",
+  "maxEP": 100000,
+  "minEP": 4000
+}

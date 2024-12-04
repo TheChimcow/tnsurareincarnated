@@ -1,0 +1,27 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/orichalcum"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      },
+      "amount": 2
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:orichalcum_hoe",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:orichalcum_gear_schematic"
+  ]
+}

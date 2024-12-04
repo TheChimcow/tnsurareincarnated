@@ -1,0 +1,13 @@
+{
+  "type": "tensura:add_item_modifier",
+  "chance": 0.2,
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/village/village_butcher"
+    }
+  ],
+  "item": "tensura:hunting_knife_schematic",
+  "max": 1,
+  "min": 1
+}

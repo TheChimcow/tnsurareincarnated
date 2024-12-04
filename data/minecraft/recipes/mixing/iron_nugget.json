@@ -1,0 +1,11 @@
+{
+  "type": "tensura:kiln_mixing",
+  "inputLeft": {
+    "amount": 1,
+    "moltenType": "tensura:iron"
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:iron_nugget"
+  }
+}

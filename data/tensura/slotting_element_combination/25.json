@@ -1,0 +1,16 @@
+{
+  "combinationID": 25,
+  "earthCores": 2,
+  "earthMultiplier": 2.0,
+  "magicProjectile": {
+    "damage": 2.0,
+    "effect": {
+      "effectID": "tensura:none"
+    },
+    "entity": "tensura:boulder_shot",
+    "knockbackForce": 1.5,
+    "speed": 1.5
+  },
+  "windCores": 1,
+  "windMultiplier": 1.0
+}

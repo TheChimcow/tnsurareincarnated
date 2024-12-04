@@ -1,0 +1,30 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:high_magisteel_ingot"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:stick"
+      }
+    },
+    {
+      "type": {
+        "item": "tensura:severer_blade"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:spatial_blade",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:spatial_blade_schematic"
+  ]
+}

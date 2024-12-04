@@ -1,0 +1,15 @@
+{
+  "type": "tensura:kiln_mixing",
+  "inputLeft": {
+    "amount": 4,
+    "moltenType": "tensura:gold"
+  },
+  "inputRight": {
+    "amount": 20,
+    "moltenType": "tensura:magisteel"
+  },
+  "result": {
+    "Count": 1,
+    "id": "tensura:orichalcum_ingot"
+  }
+}

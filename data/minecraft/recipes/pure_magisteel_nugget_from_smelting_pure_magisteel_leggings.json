@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 2.0,
+  "ingredient": {
+    "item": "tensura:pure_magisteel_leggings"
+  },
+  "result": "tensura:pure_magisteel_nugget"
+}

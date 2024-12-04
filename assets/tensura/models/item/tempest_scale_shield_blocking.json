@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "tensura:item/tempest_scale_shield_model_blocking"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "tensura:item/tempest_scale_shield_gui"
+    },
+    "fixed": {
+      "parent": "tensura:item/tempest_scale_shield_gui"
+    }
+  }
+}

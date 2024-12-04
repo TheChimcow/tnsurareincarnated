@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "tensura:monster_leather_boots_a",
+  "gainEP": 0.02,
+  "item": "tensura:monster_leather_boots_b",
+  "maxEP": 8000,
+  "minEP": 5000
+}

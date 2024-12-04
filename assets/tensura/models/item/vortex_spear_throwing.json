@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "tensura:item/vortex_spear_model_throwing"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "tensura:item/vortex_spear_gui"
+    },
+    "fixed": {
+      "parent": "tensura:item/vortex_spear_gui"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:gold_ingot"
+      },
+      "amount": 3
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:golden_tachi",
+    "tag": {
+      "Damage": 0,
+      "isTwoHanded": 1
+    }
+  },
+  "schematics": [
+    "tensura:gold_gear_schematic",
+    "tensura:long_sword_schematic",
+    "tensura:japanese_sword_schematic"
+  ]
+}

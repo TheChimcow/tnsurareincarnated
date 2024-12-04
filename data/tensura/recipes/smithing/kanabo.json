@@ -1,0 +1,31 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:goblin_club"
+      }
+    },
+    {
+      "type": {
+        "item": "tensura:low_magisteel_ingot"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:gold_ingot"
+      },
+      "amount": 2
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:kanabo",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:low_magisteel_gear_schematic"
+  ]
+}

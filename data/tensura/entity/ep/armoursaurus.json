@@ -1,0 +1,9 @@
+{
+  "entity": "tensura:armoursaurus",
+  "evolution": "tensura:none",
+  "maxEP": 5999,
+  "minEP": 5000,
+  "skills": [
+    "tensura:body_armor"
+  ]
+}

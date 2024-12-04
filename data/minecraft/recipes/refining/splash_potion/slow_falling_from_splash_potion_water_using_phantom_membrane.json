@@ -1,0 +1,29 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:nether_wart"
+      }
+    }
+  ],
+  "input": {
+    "Count": 1,
+    "id": "minecraft:splash_potion",
+    "tag": {
+      "Potion": "minecraft:water"
+    }
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:splash_potion",
+    "tag": {
+      "Potion": "minecraft:slow_falling"
+    }
+  }
+}

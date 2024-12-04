@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:leather"
+      },
+      "amount": 5
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "minecraft:leather_helmet",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:leather_gear_schematic"
+  ]
+}

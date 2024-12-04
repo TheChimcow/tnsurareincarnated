@@ -1,0 +1,23 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:silver_apple"
+      }
+    },
+    {
+      "type": {
+        "tag": "forge:ingots/mithril"
+      },
+      "amount": 8
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:enchanted_silver_apple"
+  },
+  "schematics": [
+    "tensura:mithril_gear_schematic"
+  ]
+}

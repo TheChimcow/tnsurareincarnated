@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:leather"
+      },
+      "amount": 7
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "minecraft:leather_leggings",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:leather_gear_schematic"
+  ]
+}

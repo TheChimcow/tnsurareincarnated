@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:start_smithing",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.no_no_square.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:stone_brick_magic_engine"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.no_no_square.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

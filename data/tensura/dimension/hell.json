@@ -1,0 +1,60 @@
+{
+  "type": "tensura:hell",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "tensura:hell",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "tensura:underworld_barrens",
+          "parameters": {
+            "temperature": 0.5,
+            "humidity": 0.2,
+            "continentalness": 0.3,
+            "erosion": 0.1,
+            "weirdness": 0.1,
+            "depth": 0.0,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "tensura:underworld_spikes",
+          "parameters": {
+            "temperature": 0.4,
+            "humidity": 0.1,
+            "continentalness": 0.2,
+            "erosion": 0.2,
+            "weirdness": 0.4,
+            "depth": 0.0,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "tensura:underworld_sands",
+          "parameters": {
+            "temperature": 1.0,
+            "humidity": 0.0,
+            "continentalness": 0.2,
+            "erosion": 0.3,
+            "weirdness": 0.0,
+            "depth": 0.0,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "tensura:underworld_red_sands",
+          "parameters": {
+            "temperature": 1.0,
+            "humidity": 0.0,
+            "continentalness": 0.3,
+            "erosion": 0.2,
+            "weirdness": 0.1,
+            "depth": 0.0,
+            "offset": 0.0
+          }
+        }
+      ]
+    }
+  }
+}

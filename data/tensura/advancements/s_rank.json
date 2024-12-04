@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:sa_rank",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.s_rank.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:adamantite_nugget"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.s_rank.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "tag": "forge:ingots/mithril"
+  },
+  "moltenAmount": 20,
+  "moltenType": "tensura:magisteel",
+  "secondaryAmount": 4,
+  "secondaryType": "tensura:silver"
+}

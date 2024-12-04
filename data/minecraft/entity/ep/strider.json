@@ -1,0 +1,9 @@
+{
+  "entity": "minecraft:strider",
+  "evolution": "tensura:none",
+  "maxEP": 20,
+  "minEP": 20,
+  "skills": [
+    "tensura:heat_nullification"
+  ]
+}

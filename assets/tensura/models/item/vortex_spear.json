@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "tensura:item/vortex_spear_model"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "tensura:item/vortex_spear_gui"
+    },
+    "fixed": {
+      "parent": "tensura:item/vortex_spear_gui"
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "throwing": 1
+      },
+      "model": "tensura:item/vortex_spear_throwing"
+    }
+  ]
+}

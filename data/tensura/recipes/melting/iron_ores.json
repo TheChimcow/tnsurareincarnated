@@ -1,0 +1,8 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "tag": "forge:ores/iron"
+  },
+  "moltenAmount": 9,
+  "moltenType": "tensura:iron"
+}

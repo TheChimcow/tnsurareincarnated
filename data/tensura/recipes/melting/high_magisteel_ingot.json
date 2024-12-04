@@ -1,0 +1,10 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "tensura:high_magisteel_ingot"
+  },
+  "moltenAmount": 16,
+  "moltenType": "tensura:magisteel",
+  "secondaryAmount": 5,
+  "secondaryType": "tensura:iron"
+}

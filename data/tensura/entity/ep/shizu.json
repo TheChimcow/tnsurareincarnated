@@ -1,0 +1,18 @@
+{
+  "entity": "tensura:shizu",
+  "evolution": "tensura:none",
+  "maxEP": 643543,
+  "minEP": 643543,
+  "skills": [
+    "tensura:degenerate",
+    "tensura:heat_wave",
+    "tensura:flame_manipulation",
+    "tensura:magic_sense",
+    "tensura:flame_transform",
+    "tensura:ranged_barrier",
+    "tensura:flame_attack_nullification",
+    "tensura:physical_attack_resistance",
+    "tensura:fire_bolt",
+    "tensura:hellfire"
+  ]
+}

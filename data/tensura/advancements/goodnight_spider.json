@@ -1,0 +1,37 @@
+{
+  "parent": "tensura:vigilant",
+  "criteria": {
+    "items": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:knight_spider_carapace"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.goodnight_spider.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:knight_spider_carapace"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.goodnight_spider.title"
+    }
+  },
+  "requirements": [
+    [
+      "items"
+    ]
+  ]
+}

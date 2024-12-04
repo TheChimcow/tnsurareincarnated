@@ -1,0 +1,18 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:iron_nugget"
+      },
+      "amount": 5
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:kunai"
+  },
+  "schematics": [
+    "tensura:kunai_schematic"
+  ]
+}

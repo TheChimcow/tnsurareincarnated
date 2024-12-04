@@ -1,0 +1,35 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:pure_magisteel_ingot"
+      },
+      "amount": 3
+    },
+    {
+      "type": {
+        "item": "tensura:magic_stone"
+      }
+    },
+    {
+      "type": {
+        "item": "tensura:monster_leather_a"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "minecraft:paper"
+      },
+      "amount": 3
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:character_reset_scroll"
+  },
+  "schematics": [
+    "tensura:pure_magisteel_gear_schematic"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:wandering_trader",
+  "evolution": "tensura:none",
+  "maxEP": 1250,
+  "minEP": 1250,
+  "skills": []
+}

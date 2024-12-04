@@ -1,0 +1,14 @@
+{
+  "entity": "tensura:orc_disaster",
+  "evolution": "tensura:none",
+  "maxEP": 250000,
+  "minEP": 224435,
+  "skills": [
+    "tensura:starved",
+    "tensura:corrosion",
+    "tensura:self_regeneration",
+    "tensura:strength",
+    "tensura:scale_armor",
+    "tensura:scale_armor"
+  ]
+}

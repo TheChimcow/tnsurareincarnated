@@ -1,0 +1,44 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:nether_wart"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:redstone"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:gunpowder"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:dragon_breath"
+      }
+    }
+  ],
+  "input": {
+    "Count": 1,
+    "id": "minecraft:potion",
+    "tag": {
+      "Potion": "minecraft:water"
+    }
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:lingering_potion",
+    "tag": {
+      "Potion": "minecraft:strong_leaping"
+    }
+  }
+}

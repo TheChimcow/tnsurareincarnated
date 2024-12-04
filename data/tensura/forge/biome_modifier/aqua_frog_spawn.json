@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:aqua_frog_spawn",
+  "spawners": {
+    "type": "tensura:aqua_frog",
+    "weight": 60,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

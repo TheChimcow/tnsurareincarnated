@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "tensura:webbed_cobblestone"
+  },
+  "result": "tensura:webbed_cobblestone_stairs"
+}

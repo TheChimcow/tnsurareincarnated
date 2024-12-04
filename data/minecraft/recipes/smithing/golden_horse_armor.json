@@ -1,0 +1,24 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:monster_leather_c"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "minecraft:gold_ingot"
+      },
+      "amount": 5
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "minecraft:golden_horse_armor"
+  },
+  "schematics": [
+    "tensura:monster_leather_gear_schematic"
+  ]
+}

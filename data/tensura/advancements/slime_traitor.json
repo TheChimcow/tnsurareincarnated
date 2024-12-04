@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:get_bucketed",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.slime_traitor.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:chilled_slime"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.slime_traitor.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

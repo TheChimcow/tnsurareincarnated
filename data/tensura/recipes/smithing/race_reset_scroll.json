@@ -1,0 +1,35 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "forge:ingots/mithril"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "tensura:magic_stone"
+      }
+    },
+    {
+      "type": {
+        "item": "tensura:monster_leather_a"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "minecraft:paper"
+      },
+      "amount": 4
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:race_reset_scroll"
+  },
+  "schematics": [
+    "tensura:mithril_gear_schematic"
+  ]
+}

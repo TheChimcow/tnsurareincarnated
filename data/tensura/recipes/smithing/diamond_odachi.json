@@ -1,0 +1,29 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:diamond"
+      },
+      "amount": 4
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:diamond_odachi",
+    "tag": {
+      "Damage": 0,
+      "isTwoHanded": 1
+    }
+  },
+  "schematics": [
+    "tensura:diamond_gear_schematic",
+    "tensura:great_sword_schematic",
+    "tensura:japanese_sword_schematic"
+  ]
+}

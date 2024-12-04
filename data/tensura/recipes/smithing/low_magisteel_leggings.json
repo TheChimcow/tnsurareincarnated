@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:low_magisteel_ingot"
+      },
+      "amount": 7
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:low_magisteel_leggings",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:low_magisteel_gear_schematic"
+  ]
+}

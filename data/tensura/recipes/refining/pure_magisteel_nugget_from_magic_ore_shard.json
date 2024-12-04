@@ -1,0 +1,12 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [],
+  "input": {
+    "Count": 1,
+    "id": "tensura:magic_ore_shard"
+  },
+  "result": {
+    "Count": 2,
+    "id": "tensura:pure_magisteel_nugget"
+  }
+}

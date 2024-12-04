@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:fast_learner",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.forbidden_manual.description"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:battlewill_manual"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.forbidden_manual.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

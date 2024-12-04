@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:dragon_peacock_spawn",
+  "spawners": {
+    "type": "tensura:dragon_peacock",
+    "weight": 100,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

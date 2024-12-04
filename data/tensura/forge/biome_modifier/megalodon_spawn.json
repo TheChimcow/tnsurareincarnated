@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:megalodon_spawn",
+  "spawners": {
+    "type": "tensura:megalodon",
+    "weight": 10,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

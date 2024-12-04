@@ -1,0 +1,10 @@
+{
+  "entity": "tensura:supermassive_slime",
+  "evolution": "tensura:none",
+  "maxEP": 100000,
+  "minEP": 50000,
+  "skills": [
+    "tensura:ultraspeed_regeneration",
+    "tensura:absorb_and_dissolve"
+  ]
+}

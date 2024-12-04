@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "tensura:adamantite_spear",
+  "gainEP": 0.03,
+  "item": "tensura:mithril_spear",
+  "maxEP": 225000,
+  "minEP": 45000
+}

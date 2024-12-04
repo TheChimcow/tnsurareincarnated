@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "tensura:ore_silver",
+    "tensura:ore_silver_large",
+    "tensura:ore_silver_buried",
+    "tensura:ore_magic",
+    "tensura:ore_magic_buried"
+  ],
+  "step": "underground_ores"
+}

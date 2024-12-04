@@ -1,0 +1,39 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:high_magisteel_ingot"
+      },
+      "amount": 3
+    },
+    {
+      "type": {
+        "item": "tensura:element_core_water"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "minecraft:ender_eye"
+      }
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:ice_blade",
+    "tag": {
+      "Damage": 0,
+      "isTwoHanded": 1
+    }
+  },
+  "schematics": [
+    "tensura:high_magisteel_gear_schematic",
+    "tensura:long_sword_schematic"
+  ]
+}

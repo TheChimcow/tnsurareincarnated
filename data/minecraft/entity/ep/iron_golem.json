@@ -1,0 +1,9 @@
+{
+  "entity": "minecraft:iron_golem",
+  "evolution": "tensura:none",
+  "maxEP": 5500,
+  "minEP": 5500,
+  "skills": [
+    "tensura:strength"
+  ]
+}

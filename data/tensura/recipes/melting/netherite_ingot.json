@@ -1,0 +1,10 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "moltenAmount": 16,
+  "moltenType": "tensura:netherite",
+  "secondaryAmount": 36,
+  "secondaryType": "tensura:gold"
+}

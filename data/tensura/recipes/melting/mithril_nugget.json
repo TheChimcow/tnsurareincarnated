@@ -1,0 +1,8 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "tag": "forge:nuggets/mithril"
+  },
+  "moltenAmount": 2,
+  "moltenType": "tensura:magisteel"
+}

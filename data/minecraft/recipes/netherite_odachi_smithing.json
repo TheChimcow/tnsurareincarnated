@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "tensura:diamond_odachi"
+  },
+  "result": {
+    "item": "tensura:netherite_odachi"
+  }
+}

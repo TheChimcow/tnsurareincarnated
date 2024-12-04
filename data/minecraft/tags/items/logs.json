@@ -1,0 +1,12 @@
+{
+  "values": [
+    "tensura:palm_log",
+    "tensura:sakura_log",
+    "tensura:stripped_palm_log",
+    "tensura:stripped_sakura_log",
+    "tensura:palm_wood",
+    "tensura:sakura_wood",
+    "tensura:stripped_palm_wood",
+    "tensura:stripped_sakura_wood"
+  ]
+}

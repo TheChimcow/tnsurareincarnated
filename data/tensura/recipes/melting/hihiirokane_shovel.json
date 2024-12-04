@@ -1,0 +1,8 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "tensura:hihiirokane_shovel"
+  },
+  "moltenAmount": 12,
+  "moltenType": "tensura:magisteel"
+}

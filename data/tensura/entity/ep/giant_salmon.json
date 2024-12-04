@@ -1,0 +1,9 @@
+{
+  "entity": "tensura:giant_salmon",
+  "evolution": "tensura:none",
+  "maxEP": 3000,
+  "minEP": 1000,
+  "skills": [
+    "tensura:water_breathing"
+  ]
+}

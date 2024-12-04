@@ -1,0 +1,8 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "minecraft:iron_hoe"
+  },
+  "moltenAmount": 1,
+  "moltenType": "tensura:iron"
+}

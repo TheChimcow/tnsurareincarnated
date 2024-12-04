@@ -1,0 +1,35 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:charybdis_scale"
+      },
+      "amount": 3
+    },
+    {
+      "type": {
+        "item": "tensura:high_magisteel_ingot"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:tempest_scale_sword",
+    "tag": {
+      "Damage": 0,
+      "isTwoHanded": 1
+    }
+  },
+  "schematics": [
+    "tensura:charybdis_scalemail_gear_schematic",
+    "tensura:high_magisteel_gear_schematic",
+    "tensura:long_sword_schematic"
+  ]
+}

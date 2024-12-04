@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 2.5,
+  "ingredient": {
+    "item": "tensura:adamantite_leggings"
+  },
+  "result": "tensura:adamantite_nugget"
+}

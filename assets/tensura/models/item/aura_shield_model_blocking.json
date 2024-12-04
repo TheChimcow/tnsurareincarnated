@@ -1,0 +1,19 @@
+{
+	"parent": "tensura:item/aura_shield_model",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [37, -20, 0],
+			"translation": [0.25, -9.25, -7.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [37, -20, 0],
+			"translation": [0.25, -9.25, -7.25]
+		},
+		"firstperson_righthand": {
+			"translation": [-0.25, -14, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [-0.25, -14, 0]
+		}
+	}
+}

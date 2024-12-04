@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:horned_bear_spawn",
+  "spawners": {
+    "type": "tensura:horned_bear",
+    "weight": 50,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

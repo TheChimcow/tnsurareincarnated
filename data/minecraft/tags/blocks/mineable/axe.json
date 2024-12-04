@@ -1,0 +1,30 @@
+{
+  "values": [
+    "tensura:palm_door",
+    "tensura:palm_log",
+    "tensura:palm_wood",
+    "tensura:stripped_palm_log",
+    "tensura:stripped_palm_wood",
+    "tensura:palm_planks",
+    "tensura:palm_slab",
+    "tensura:palm_stairs",
+    "tensura:palm_trapdoor",
+    "tensura:palm_fence",
+    "tensura:palm_fence_gate",
+    "tensura:palm_button",
+    "tensura:palm_pressure_plate",
+    "tensura:sakura_door",
+    "tensura:sakura_log",
+    "tensura:sakura_wood",
+    "tensura:stripped_sakura_log",
+    "tensura:stripped_sakura_wood",
+    "tensura:sakura_planks",
+    "tensura:sakura_slab",
+    "tensura:sakura_stairs",
+    "tensura:sakura_trapdoor",
+    "tensura:sakura_fence",
+    "tensura:sakura_fence_gate",
+    "tensura:sakura_button",
+    "tensura:sakura_pressure_plate"
+  ]
+}

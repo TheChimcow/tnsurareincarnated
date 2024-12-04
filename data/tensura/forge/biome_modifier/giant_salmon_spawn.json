@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:giant_salmon_spawn",
+  "spawners": {
+    "type": "tensura:giant_salmon",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

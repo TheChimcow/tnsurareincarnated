@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:elementalist",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.blessed_one.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:elemental_essence"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.blessed_one.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

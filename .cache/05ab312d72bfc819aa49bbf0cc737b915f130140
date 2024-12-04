@@ -1,0 +1,6 @@
+// 1.19.2	2024-05-30T13:05:33.4659681	Tensura level modifiers
+029e84d586494b6559bf41b929caa47ccb8c32e9 data/minecraft/tensura/magicule/modifier/level/overworld.json
+b33ba451b238d362715e6f70b2d7227c61423366 data/minecraft/tensura/magicule/modifier/level/the_end.json
+62400ffd416ad84acc4f9d0db1f76c6ba283cd69 data/minecraft/tensura/magicule/modifier/level/the_nether.json
+51c686f916410f2165b5a9cb22ab3b8d8150c738 data/tensura/tensura/magicule/modifier/level/hell.json
+cd963d4086aa12e59096c018007b0f497829ad7a data/tensura/tensura/magicule/modifier/level/labyrinth.json

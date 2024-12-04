@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "tensura:labyrinth_tree",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 56873,
+    "spacing": 200,
+    "separation": 50
+  }
+}

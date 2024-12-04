@@ -1,0 +1,1348 @@
+{
+  "variants": {
+    "age=0,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=0,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=1,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=10,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=11,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=12,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=13,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=14,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=15,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=2,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=3,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=4,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=5,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=6,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=7,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=8,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=1,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=1,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=1,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=1,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=2,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=2,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=2,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=2,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=3,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=3,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=3,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=3,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=4,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=4,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=4,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=4,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=5,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=5,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=5,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=5,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=6,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=6,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=6,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=6,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=7,persistent=false,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=7,persistent=false,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=7,persistent=true,waterlogged=false": {
+      "model": "tensura:block/sakura_leaves"
+    },
+    "age=9,distance=7,persistent=true,waterlogged=true": {
+      "model": "tensura:block/sakura_leaves"
+    }
+  }
+}

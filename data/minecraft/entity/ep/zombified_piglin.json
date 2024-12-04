@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:zombified_piglin",
+  "evolution": "tensura:none",
+  "maxEP": 1550,
+  "minEP": 1550,
+  "skills": []
+}

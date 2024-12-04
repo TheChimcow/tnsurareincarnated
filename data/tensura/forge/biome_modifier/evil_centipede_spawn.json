@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:evil_centipede_spawn",
+  "spawners": {
+    "type": "tensura:evil_centipede",
+    "weight": 100,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

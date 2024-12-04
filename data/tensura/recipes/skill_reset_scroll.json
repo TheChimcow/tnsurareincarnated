@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "tensura:pure_magisteel_ingot"
+    },
+    "L": {
+      "item": "tensura:monster_leather_a"
+    },
+    "O": {
+      "tag": "forge:ingots/orichalcum"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "tensura:magic_stone"
+    }
+  },
+  "pattern": [
+    "P#P",
+    "OSO",
+    "LPL"
+  ],
+  "result": {
+    "item": "tensura:skill_reset_scroll"
+  }
+}

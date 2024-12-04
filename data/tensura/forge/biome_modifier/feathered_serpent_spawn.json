@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:feathered_serpent_spawn",
+  "spawners": {
+    "type": "tensura:feathered_serpent",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "tensura:labyrinth_tree/tree",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "tensura:labyrinth/labyrinth_tree_bottom_1",
+        "processors": "tensura:no_waterlogging",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

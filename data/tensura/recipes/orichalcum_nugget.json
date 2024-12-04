@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "orichalcum_nugget",
+  "ingredients": [
+    {
+      "item": "tensura:orichalcum_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tensura:orichalcum_nugget"
+  }
+}

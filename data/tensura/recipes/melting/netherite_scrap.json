@@ -1,0 +1,8 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "item": "minecraft:netherite_scrap"
+  },
+  "moltenAmount": 4,
+  "moltenType": "tensura:netherite"
+}

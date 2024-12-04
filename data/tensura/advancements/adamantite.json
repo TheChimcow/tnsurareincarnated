@@ -1,0 +1,284 @@
+{
+  "parent": "tensura:pure_magisteel",
+  "criteria": {
+    "adamantite_axe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_axe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_boots": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_boots"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_chestplate": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_chestplate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_great_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_great_sword"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_helmet": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_helmet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_hoe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_hoe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_katana": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_katana"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_kodachi": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_kodachi"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_leggings": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_leggings"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_long_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_long_sword"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_odachi": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_odachi"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_pickaxe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_scythe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_scythe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_short_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_short_sword"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_shovel": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_shovel"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_sickle": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_sickle"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_spear": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_spear"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_sword"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_tachi": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:adamantite_tachi"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.adamantite.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:adamantite_ingot"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.adamantite.title"
+    }
+  },
+  "requirements": [
+    [
+      "adamantite_ingot",
+      "adamantite_sword",
+      "adamantite_katana",
+      "adamantite_short_sword",
+      "adamantite_kodachi",
+      "adamantite_long_sword",
+      "adamantite_tachi",
+      "adamantite_great_sword",
+      "adamantite_odachi",
+      "adamantite_pickaxe",
+      "adamantite_axe",
+      "adamantite_shovel",
+      "adamantite_hoe",
+      "adamantite_sickle",
+      "adamantite_spear",
+      "adamantite_scythe",
+      "adamantite_helmet",
+      "adamantite_chestplate",
+      "adamantite_leggings",
+      "adamantite_boots"
+    ]
+  ]
+}

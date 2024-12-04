@@ -1,0 +1,9 @@
+{
+  "entity": "tensura:elemental_colossus",
+  "evolution": "tensura:none",
+  "maxEP": 350000,
+  "minEP": 330000,
+  "skills": [
+    "tensura:thermal_fluctuation_resistance"
+  ]
+}

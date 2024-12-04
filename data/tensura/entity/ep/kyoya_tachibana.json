@@ -1,0 +1,11 @@
+{
+  "entity": "tensura:kyoya_tachibana",
+  "evolution": "tensura:none",
+  "maxEP": 90000,
+  "minEP": 80000,
+  "skills": [
+    "tensura:severer",
+    "tensura:all_seeing_eye",
+    "tensura:thought_acceleration"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.09,
+  "item": "tensura:anti_magic_mask",
+  "maxEP": 1000000,
+  "minEP": 10400
+}

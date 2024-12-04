@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:sheep",
+  "evolution": "tensura:none",
+  "maxEP": 10,
+  "minEP": 10,
+  "skills": []
+}

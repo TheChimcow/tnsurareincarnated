@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:charybdis_scale"
+      },
+      "amount": 5
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:charybdis_scalemail_helmet",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:charybdis_scalemail_gear_schematic"
+  ]
+}

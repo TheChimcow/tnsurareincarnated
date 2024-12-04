@@ -1,0 +1,26 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "tag": "minecraft:planks"
+      }
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:wooden_kodachi",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:short_sword_schematic",
+    "tensura:japanese_sword_schematic"
+  ]
+}

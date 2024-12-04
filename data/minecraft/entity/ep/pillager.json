@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:pillager",
+  "evolution": "tensura:none",
+  "maxEP": 2750,
+  "minEP": 2750,
+  "skills": []
+}

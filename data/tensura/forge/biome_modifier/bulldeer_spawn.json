@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#forge:bulldeer_spawn",
+  "spawners": {
+    "type": "tensura:bulldeer",
+    "weight": 112,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

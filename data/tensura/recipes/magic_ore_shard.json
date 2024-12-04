@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "magic_ore_shard",
+  "ingredients": [
+    {
+      "item": "tensura:block_of_magic_ore"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tensura:magic_ore_shard"
+  }
+}

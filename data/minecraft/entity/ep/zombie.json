@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:zombie",
+  "evolution": "tensura:none",
+  "maxEP": 1400,
+  "minEP": 1400,
+  "skills": []
+}

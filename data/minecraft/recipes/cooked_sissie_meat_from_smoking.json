@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "tensura:raw_sissie_meat"
+  },
+  "result": "tensura:cooked_sissie_meat"
+}

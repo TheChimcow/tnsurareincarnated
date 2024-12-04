@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "cookingtime": 600,
+  "experience": 0.5,
+  "ingredient": {
+    "item": "tensura:spear_toro_fin"
+  },
+  "result": "tensura:cooked_spear_toro_fin"
+}

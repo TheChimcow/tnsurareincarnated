@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "tensura:item/ice_blade_model"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "tensura:item/ice_blade_gui"
+    },
+    "fixed": {
+      "parent": "tensura:item/ice_blade_gui"
+    }
+  }
+}

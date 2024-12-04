@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:slime",
+  "evolution": "tensura:none",
+  "maxEP": 1000,
+  "minEP": 1000,
+  "skills": [
+    "tensura:self_regeneration",
+    "tensura:absorb_and_dissolve"
+  ]
+}

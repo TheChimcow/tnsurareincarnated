@@ -1,0 +1,33 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:charybdis_scale"
+      },
+      "amount": 2
+    },
+    {
+      "type": {
+        "item": "tensura:high_magisteel_ingot"
+      }
+    },
+    {
+      "type": {
+        "tag": "forge:rods/wooden"
+      }
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:tempest_scale_knife",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:charybdis_scalemail_gear_schematic",
+    "tensura:high_magisteel_gear_schematic",
+    "tensura:short_sword_schematic"
+  ]
+}

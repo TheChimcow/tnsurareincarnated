@@ -1,0 +1,9 @@
+{
+  "entity": "tensura:evil_centipede",
+  "evolution": "tensura:none",
+  "maxEP": 9000,
+  "minEP": 7000,
+  "skills": [
+    "tensura:paralysing_breath"
+  ]
+}

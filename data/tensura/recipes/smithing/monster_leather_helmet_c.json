@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:monster_leather_c"
+      },
+      "amount": 5
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:monster_leather_helmet_c",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:monster_leather_gear_schematic"
+  ]
+}

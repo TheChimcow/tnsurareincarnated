@@ -1,0 +1,12 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [],
+  "input": {
+    "Count": 1,
+    "id": "tensura:block_of_magic_ore"
+  },
+  "result": {
+    "Count": 2,
+    "id": "tensura:pure_magisteel_ingot"
+  }
+}

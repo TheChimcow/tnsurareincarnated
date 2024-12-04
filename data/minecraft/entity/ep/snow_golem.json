@@ -1,0 +1,9 @@
+{
+  "entity": "minecraft:snow_golem",
+  "evolution": "tensura:none",
+  "maxEP": 200,
+  "minEP": 200,
+  "skills": [
+    "tensura:cold_resistance"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "tensura:smithing",
+  "ingredients": [
+    {
+      "type": {
+        "item": "tensura:armoursaurus_scale"
+      },
+      "amount": 8
+    }
+  ],
+  "result": {
+    "Count": 1,
+    "id": "tensura:armoursaurus_scalemail_chestplate",
+    "tag": {
+      "Damage": 0
+    }
+  },
+  "schematics": [
+    "tensura:armoursaurus_scalemail_gear_schematic"
+  ]
+}

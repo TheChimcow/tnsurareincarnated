@@ -1,0 +1,33 @@
+{
+  "entity": "tensura:hinata_sakaguchi",
+  "evolution": "tensura:none",
+  "maxEP": 1036332,
+  "minEP": 1036331,
+  "skills": [
+    "tensura:usurper",
+    "tensura:mathematician",
+    "tensura:magic_sense",
+    "tensura:darkness_attack_resistance",
+    "tensura:earth_attack_nullification",
+    "tensura:flame_attack_nullification",
+    "tensura:light_attack_resistance",
+    "tensura:spatial_attack_nullification",
+    "tensura:water_attack_nullification",
+    "tensura:wind_attack_nullification",
+    "tensura:heat_resistance",
+    "tensura:cold_resistance",
+    "tensura:abnormal_condition_resistance",
+    "tensura:poison_nullification",
+    "tensura:corrosion_nullification",
+    "tensura:physical_attack_resistance",
+    "tensura:spiritual_attack_resistance",
+    "tensura:magic_resistance",
+    "tensura:holy_attack_resistance",
+    "tensura:hellfire",
+    "tensura:blizzard",
+    "tensura:earth_jail",
+    "tensura:aerial_blade",
+    "tensura:summon_greater_elemental",
+    "tensura:summon_medium_elemental"
+  ]
+}

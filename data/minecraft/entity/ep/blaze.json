@@ -1,0 +1,10 @@
+{
+  "entity": "minecraft:blaze",
+  "evolution": "tensura:none",
+  "maxEP": 2500,
+  "minEP": 2500,
+  "skills": [
+    "tensura:gravity_flight",
+    "tensura:heat_nullification"
+  ]
+}

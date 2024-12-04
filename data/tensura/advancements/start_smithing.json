@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:reincarnated",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.start_smithing.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "tensura:spider_bows_schematic"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.start_smithing.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

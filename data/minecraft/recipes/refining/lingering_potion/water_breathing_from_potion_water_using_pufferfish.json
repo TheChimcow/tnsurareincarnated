@@ -1,0 +1,39 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:pufferfish"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:nether_wart"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:gunpowder"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:dragon_breath"
+      }
+    }
+  ],
+  "input": {
+    "Count": 1,
+    "id": "minecraft:potion",
+    "tag": {
+      "Potion": "minecraft:water"
+    }
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:lingering_potion",
+    "tag": {
+      "Potion": "minecraft:water_breathing"
+    }
+  }
+}

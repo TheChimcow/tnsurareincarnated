@@ -1,0 +1,9 @@
+{
+  "entity": "tensura:lizardman",
+  "evolution": "tensura:none",
+  "maxEP": 8000,
+  "minEP": 5000,
+  "skills": [
+    "tensura:scale_armor"
+  ]
+}

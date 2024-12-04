@@ -1,0 +1,34 @@
+{
+  "type": "tensura:refining",
+  "ingredients": [
+    {
+      "type": {
+        "item": "minecraft:spider_eye"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    {
+      "type": {
+        "item": "minecraft:dragon_breath"
+      }
+    }
+  ],
+  "input": {
+    "Count": 1,
+    "id": "minecraft:splash_potion",
+    "tag": {
+      "Potion": "minecraft:awkward"
+    }
+  },
+  "result": {
+    "Count": 1,
+    "id": "minecraft:lingering_potion",
+    "tag": {
+      "Potion": "minecraft:harming"
+    }
+  }
+}

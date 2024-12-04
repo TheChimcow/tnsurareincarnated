@@ -1,0 +1,28 @@
+{
+  "parent": "tensura:s_rank",
+  "criteria": {
+    "custom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.higher_form.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:dragon_essence"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.higher_form.title"
+    }
+  },
+  "requirements": [
+    [
+      "custom"
+    ]
+  ]
+}

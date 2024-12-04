@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:drowned",
+  "evolution": "tensura:none",
+  "maxEP": 1600,
+  "minEP": 1600,
+  "skills": []
+}

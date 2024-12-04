@@ -1,0 +1,8 @@
+{
+  "type": "tensura:kiln_melting",
+  "input": {
+    "tag": "forge:storage_blocks/raw_iron"
+  },
+  "moltenAmount": 81,
+  "moltenType": "tensura:iron"
+}

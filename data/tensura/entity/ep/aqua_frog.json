@@ -1,0 +1,12 @@
+{
+  "entity": "tensura:aqua_frog",
+  "evolution": "tensura:none",
+  "maxEP": 9000,
+  "minEP": 6000,
+  "skills": [
+    "tensura:water_manipulation",
+    "tensura:water_transform",
+    "tensura:water_attack_resistance",
+    "tensura:poison_resistance"
+  ]
+}

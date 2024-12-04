@@ -1,0 +1,9 @@
+{
+  "entity": "tensura:mark_lauren",
+  "evolution": "tensura:none",
+  "maxEP": 110000,
+  "minEP": 100000,
+  "skills": [
+    "tensura:thrower"
+  ]
+}

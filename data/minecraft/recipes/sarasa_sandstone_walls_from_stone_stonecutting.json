@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "tensura:sarasa_sandstone"
+  },
+  "result": "tensura:sarasa_sandstone_wall"
+}

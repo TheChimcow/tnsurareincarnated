@@ -1,0 +1,16 @@
+{
+  "combinationID": 28,
+  "earthCores": 1,
+  "earthMultiplier": 3.0,
+  "fireCores": 1,
+  "magicProjectile": {
+    "damage": 2.25,
+    "effect": {
+      "effectID": "tensura:none"
+    },
+    "entity": "tensura:obsidian_shot",
+    "knockbackForce": 1.5,
+    "speed": 1.8
+  },
+  "waterCores": 1
+}

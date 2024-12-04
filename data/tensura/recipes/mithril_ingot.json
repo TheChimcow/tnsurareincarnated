@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mithril_ingot",
+  "ingredients": [
+    {
+      "item": "tensura:block_of_mithril"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tensura:mithril_ingot"
+  }
+}

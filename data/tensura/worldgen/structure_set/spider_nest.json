@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "tensura:spider_nest",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 363127,
+    "spacing": 70,
+    "separation": 15
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "entity": "minecraft:guardian",
+  "evolution": "minecraft:elder_guardian",
+  "maxEP": 3670,
+  "minEP": 3670,
+  "skills": []
+}

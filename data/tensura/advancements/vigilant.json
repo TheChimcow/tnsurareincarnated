@@ -1,0 +1,37 @@
+{
+  "parent": "tensura:reincarnated",
+  "criteria": {
+    "items": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tensura:giant_ant_carapace"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "tensura.advancements.vigilant.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "tensura:giant_ant_carapace"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "tensura.advancements.vigilant.title"
+    }
+  },
+  "requirements": [
+    [
+      "items"
+    ]
+  ]
+}
